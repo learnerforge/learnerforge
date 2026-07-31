@@ -32,14 +32,14 @@
 
 ## <img src="https://api.iconify.design/lucide/user.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> About Me
 
-- <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Education** — B.Tech CSE (AI & ML) at MGIT, Hyderabad (2024-2028)
-- <img src="https://api.iconify.design/lucide/briefcase.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Experience** — Research Intern at BrightPitch
-- <img src="https://api.iconify.design/lucide/brain.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Roles** — ML Engineer · <img src="https://api.iconify.design/lucide/layers.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> Full-Stack Developer · <img src="https://api.iconify.design/lucide/book-open.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> Learning Designer
-- <img src="https://api.iconify.design/lucide/smartphone.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Focus** — shipping [Remote_Mouse](https://github.com/learnerforge/Remote_Mouse), a wireless mouse from your phone
-- <img src="https://api.iconify.design/lucide/network.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Interests** — AI agents, agent memory, agentic workflows
-- <img src="https://api.iconify.design/lucide/terminal.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Stack** — Python · FastAPI · Flask · React · PostgreSQL
-- <img src="https://api.iconify.design/lucide/lightbulb.svg?color=%23FFB74D&height=18" style="vertical-align: middle; margin-right: 6px"/> **Fun fact** — 87 roadmaps (9,531 topics) in [PathForge AI](https://github.com/learnerforge/Roadmaps-generator)
-- <img src="https://api.iconify.design/lucide/target.svg?color=%23FFB74D&height=18" style="vertical-align: middle; margin-right: 6px"/> **Goal** — internship-ready by 2027
+<img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Education** — B.Tech CSE (AI & ML) at MGIT, Hyderabad (2024-2028)
+<img src="https://api.iconify.design/lucide/briefcase.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Experience** — Research Intern at BrightPitch
+<img src="https://api.iconify.design/lucide/brain.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Roles** — ML Engineer · <img src="https://api.iconify.design/lucide/layers.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> Full-Stack Developer · <img src="https://api.iconify.design/lucide/book-open.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> Learning Designer
+<img src="https://api.iconify.design/lucide/smartphone.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Focus** — shipping [Remote_Mouse](https://github.com/learnerforge/Remote_Mouse), a wireless mouse from your phone
+<img src="https://api.iconify.design/lucide/network.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Interests** — AI agents, agent memory, agentic workflows
+<img src="https://api.iconify.design/lucide/terminal.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Stack** — Python · FastAPI · Flask · React · PostgreSQL
+<img src="https://api.iconify.design/lucide/lightbulb.svg?color=%23FFB74D&height=18" style="vertical-align: middle; margin-right: 6px"/> **Fun fact** — 87 roadmaps (9,531 topics) in [PathForge AI](https://github.com/learnerforge/Roadmaps-generator)
+<img src="https://api.iconify.design/lucide/target.svg?color=%23FFB74D&height=18" style="vertical-align: middle; margin-right: 6px"/> **Goal** — internship-ready by 2027
 
 ## <img src="https://api.iconify.design/lucide/terminal.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> Tech Stack
 
@@ -105,9 +105,9 @@
 
 ## <img src="https://api.iconify.design/lucide/activity.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> What I'm Up To
 
-- <img src="https://api.iconify.design/lucide/mouse-pointer.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> Pushing **Remote_Mouse** daily — [latest commits](https://github.com/learnerforge/Remote_Mouse)
-- <img src="https://api.iconify.design/lucide/rocket.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> Productionizing **PathForge AI** — hosting + open-source release
-- <img src="https://api.iconify.design/lucide/sparkles.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> Deep-diving the **AI-agent ecosystem** (agent-skills, Agent-Reach, CopilotKit)
+<img src="https://api.iconify.design/lucide/mouse-pointer.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> Pushing **Remote_Mouse** daily — [latest commits](https://github.com/learnerforge/Remote_Mouse)
+<img src="https://api.iconify.design/lucide/rocket.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> Productionizing **PathForge AI** — hosting + open-source release
+<img src="https://api.iconify.design/lucide/sparkles.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> Deep-diving the **AI-agent ecosystem** (agent-skills, Agent-Reach, CopilotKit)
 
 ## <img src="https://api.iconify.design/lucide/map.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> My Learning Journey
 
@@ -121,9 +121,9 @@
 
 I'm always happy to collaborate on **AI/ML and full-stack projects**. Open to internships, research, and hackathon teams.
 
-- <img src="https://api.iconify.design/lucide/github.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **GitHub:** [learnerforge](https://github.com/learnerforge)
-- <img src="https://api.iconify.design/lucide/linkedin.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **LinkedIn:** [Ganesh Bakkera](https://www.linkedin.com/in/ganesh-bakkera-898a0331b)
-- <img src="https://api.iconify.design/lucide/mail.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Email:** [bakkeraganesh@gmail.com](mailto:bakkeraganesh@gmail.com)
+<img src="https://api.iconify.design/lucide/github.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **GitHub:** [learnerforge](https://github.com/learnerforge)
+<img src="https://api.iconify.design/lucide/linkedin.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **LinkedIn:** [Ganesh Bakkera](https://www.linkedin.com/in/ganesh-bakkera-898a0331b)
+<img src="https://api.iconify.design/lucide/mail.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Email:** [bakkeraganesh@gmail.com](mailto:bakkeraganesh@gmail.com)
 
 If you found any of my projects useful, a star would make my day!
 
