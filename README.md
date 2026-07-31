@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:3FA1FF&height=180&section=header&text=Ganesh%20Bakkera&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<h1 align="center">Hi there, I'm Ganesh Bakkera 👋</h1>
+<h1 align="center">Hi there, I'm Ganesh Bakkera</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -16,19 +16,19 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## <img src="https://cdn.simpleicons.org/aboutdotme/3FA1FF" width="24"/> About Me
 
-- 🎓 B.Tech **CSE (Artificial Intelligence & Machine Learning)** at **Mahatma Gandhi Institute of Technology, Hyderabad** (2024–2028)
-- 🤖 **ML Engineer** · 🌐 **Full-Stack Developer** · 🎨 **Learning Designer** — I adapt to different hats
-- 🔭 I'm currently shipping **Remote_Mouse** — turning a phone into a wireless mouse & media remote
-- 🌱 I'm exploring the **AI-agent ecosystem**: agent skills, LLM memory, and agentic dev workflows
-- 💬 Ask me about **Python, FastAPI, ML/NLP, React, and building AI SaaS**
-- ⚡ Fun fact: I imported **87 roadmaps (9,531 topics)** from roadmap.sh into my flagship project
-- 🎯 Goal: internship-ready by 2027 — I build career tools to get there (resume matcher, skill-gap analyzer)
-- 📫 How to reach me: [bakkeraganesh@gmail.com](mailto:bakkeraganesh@gmail.com)
-- 🛠️ Currently building with: **Python · FastAPI · Flask · React · PostgreSQL**
+- <img src="https://cdn.simpleicons.org/bookstack/3FA1FF" width="18"/> B.Tech **CSE (Artificial Intelligence & Machine Learning)** at **Mahatma Gandhi Institute of Technology, Hyderabad** (2024-2028)
+- <img src="https://cdn.simpleicons.org/scikitlearn/3FA1FF" width="18"/> **ML Engineer** · <img src="https://cdn.simpleicons.org/react/3FA1FF" width="18"/> **Full-Stack Developer** · <img src="https://cdn.simpleicons.org/sass/3FA1FF" width="18"/> **Learning Designer** — I adapt to different hats
+- <img src="https://cdn.simpleicons.org/zap/3FA1FF" width="18"/> Currently shipping **Remote_Mouse** — turning a phone into a wireless mouse & media remote
+- <img src="https://cdn.simpleicons.org/githubcopilot/3FA1FF" width="18"/> Exploring the **AI-agent ecosystem**: agent skills, LLM memory, and agentic dev workflows
+- <img src="https://cdn.simpleicons.org/stackoverflow/3FA1FF" width="18"/> Ask me about **Python, FastAPI, ML/NLP, React, and building AI SaaS**
+- <img src="https://cdn.simpleicons.org/lightning/3FA1FF" width="18"/> Fun fact: I imported **87 roadmaps (9,531 topics)** from roadmap.sh into my flagship project
+- <img src="https://cdn.simpleicons.org/target/3FA1FF" width="18"/> Goal: internship-ready by 2027 — I build career tools to get there (resume matcher, skill-gap analyzer)
+- <img src="https://cdn.simpleicons.org/gmail/3FA1FF" width="18"/> How to reach me: [bakkeraganesh@gmail.com](mailto:bakkeraganesh@gmail.com)
+- <img src="https://cdn.simpleicons.org/python/3FA1FF" width="18"/> Currently building with: **Python · FastAPI · Flask · React · PostgreSQL**
 
-## 🧰 Tech Stack
+## <img src="https://cdn.simpleicons.org/flask/3FA1FF" width="24"/> Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,postgres,sqlite,react,vite,tailwind,javascript,html,css,docker,git,linux&perline=8" alt="Tech stack"/>
 
@@ -41,25 +41,25 @@
   <img src="https://img.shields.io/badge/ReactFlow-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="ReactFlow"/>
 </p>
 
-## 🚀 Featured Projects
+## <img src="https://cdn.simpleicons.org/rocket/3FA1FF" width="24"/> Featured Projects
 
-### 🔥 PathForge AI — Roadmaps-generator *(flagship)*
+### <img src="https://cdn.simpleicons.org/googlegemini/3FA1FF" width="18"/> PathForge AI — Roadmaps-generator *(flagship)*
 > Full-stack AI roadmap generator. Imports **87 real roadmaps (9,531 topics)** from roadmap.sh, renders an interactive **ReactFlow node graph**, and generates AI explanations, quizzes, and weekly study plans via **Gemini 2.0 (GPT-4o-mini fallback)**.
 > **Stack:** FastAPI · PostgreSQL 16 · SQLAlchemy async · React 18 · Zustand · JWT + OAuth · Docker
 
-### 🖱️ Remote_Mouse
-> Turns your phone into a **wireless mouse + media remote**. Zero phone install — the laptop runs a Python server, the phone just opens a URL. DPI presets (400–3200), two-finger scroll, media keys, **Cloudflare tunnel** with SMTP URL delivery.
+### <img src="https://cdn.simpleicons.org/socketdotio/3FA1FF" width="18"/> Remote_Mouse
+> Turns your phone into a **wireless mouse + media remote**. Zero phone install — the laptop runs a Python server, the phone just opens a URL. DPI presets (400-3200), two-finger scroll, media keys, **Cloudflare tunnel** with SMTP URL delivery.
 > **Stack:** Flask · Socket.IO · PyAutoGUI · pynput · Cloudflare · CI security audit
 
-### 🤖 AI-GitHub-Repository-Analyzer
-> Paste any GitHub URL → **9-dimension quality analysis in <30s**. Deterministic offline NLP (TextRank), secret scanning, architecture detection, and a **Q-learning tuner** that improves scoring from user feedback. No black-box AI.
+### <img src="https://cdn.simpleicons.org/scikitlearn/3FA1FF" width="18"/> AI-GitHub-Repository-Analyzer
+> Paste any GitHub URL to get a **9-dimension quality analysis in under 30 seconds**. Deterministic offline NLP (TextRank), secret scanning, architecture detection, and a **Q-learning tuner** that improves scoring from user feedback. No black-box AI.
 > **Stack:** FastAPI · httpx · NLP · Q-learning · MIT licensed
 
-### 🌐 NexaSite
+### <img src="https://cdn.simpleicons.org/react/3FA1FF" width="18"/> NexaSite
 > Professional, responsive **business landing-page template** with a 3-mode theme system (dark/blue/dust), scroll animations, and an accessible contact form.
 > **Stack:** React 19 · Vite · Tailwind v4 · AOS
 
-## 🧠 Skills Breakdown
+## <img src="https://cdn.simpleicons.org/bookstack/3FA1FF" width="24"/> Skills Breakdown
 
 | Area | Technologies |
 |---|---|
@@ -69,14 +69,14 @@
 | **Systems** | Socket.IO · PyAutoGUI · pynput · Docker · Cloudflare Tunnels · GitHub Actions |
 | **Security** | JWT · OAuth · bcrypt · rate limiting · CORS · secret scanning |
 
-## 🧪 More Projects (remixed & extended)
+## <img src="https://cdn.simpleicons.org/github/3FA1FF" width="24"/> More Projects (remixed & extended)
 
 - **smart-mobility-insights** — pan-India Django mobility platform wired to **11 government open datasets** (~210K records, 20 API endpoints)
 - **SkillGapAI_Project** — employability analyzer with **Random Forest + Decision Tree** ML models and a 68K+ course engine
 - **resume-screening-ml** — ATS-style resume matcher using **TF-IDF + spaCy** against a 220+ skill dataset
 - **login-page** — "LearnerForge — Scholar's Hall": pure-CSS ancient-Chinese aesthetic login page (12+ layers, no images)
 
-## 📊 GitHub Stats
+## <img src="https://cdn.simpleicons.org/chartdotjs/3FA1FF" width="24"/> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=learnerforge&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A2540" alt="GitHub stats"/>
@@ -88,19 +88,19 @@
   <img src="https://github-profile-trophy.vercel.app/?username=learnerforge&theme=tokyonight&no-frame=true&column=5" alt="GitHub trophies"/>
 </p>
 
-## ✍️ Random Dev Quote
+## <img src="https://cdn.simpleicons.org/markdown/3FA1FF" width="24"/> Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
 </p>
 
-## 📈 What I'm Up To
+## <img src="https://cdn.simpleicons.org/target/3FA1FF" width="24"/> What I'm Up To
 
-- 🔄 Pushing **Remote_Mouse** daily — latest commits [here](https://github.com/learnerforge/Remote_Mouse)
-- 🏗️ Productionizing **PathForge AI** — hosting + open-source release next
-- 📚 Deep-diving the **AI-agent ecosystem** (I star agent tooling: agent-skills, Agent-Reach, CopilotKit, open-notebook)
+- <img src="https://cdn.simpleicons.org/socketdotio/3FA1FF" width="18"/> Pushing **Remote_Mouse** daily — latest commits [here](https://github.com/learnerforge/Remote_Mouse)
+- <img src="https://cdn.simpleicons.org/fastapi/3FA1FF" width="18"/> Productionizing **PathForge AI** — hosting + open-source release next
+- <img src="https://cdn.simpleicons.org/googlegemini/3FA1FF" width="18"/> Deep-diving the **AI-agent ecosystem** (agent-skills, Agent-Reach, CopilotKit, open-notebook)
 
-## 🗺️ My Learning Journey
+## <img src="https://cdn.simpleicons.org/git/3FA1FF" width="24"/> My Learning Journey
 
 - **Phase 1 — Frontend:** NexaSite (React 19/Vite/Tailwind) + pure-CSS design art
 - **Phase 2 — Backend & Data:** Django + 11 datasets · FastAPI + PostgreSQL
@@ -108,7 +108,7 @@
 - **Phase 4 — Full-stack AI SaaS:** PathForge AI (Gemini + ReactFlow + JWT)
 - **Phase 5 — Systems & DevOps:** Remote_Mouse (Socket.IO + PyAutoGUI + CI security audits)
 
-## 💬 Let's Connect
+## <img src="https://cdn.simpleicons.org/gmail/3FA1FF" width="24"/> Let's Connect
 
 I'm always happy to collaborate on **AI/ML and full-stack projects**. Open to internships, research, and hackathon teams.
 
@@ -116,7 +116,7 @@ I'm always happy to collaborate on **AI/ML and full-stack projects**. Open to in
 - **LinkedIn:** [Ganesh Bakkera](https://www.linkedin.com/in/ganesh-bakkera-898a0331b)
 - **Email:** [bakkeraganesh@gmail.com](mailto:bakkeraganesh@gmail.com)
 
-If you found any of my projects useful, a ⭐ would make my day!
+If you found any of my projects useful, a star would make my day!
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=learnerforge&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph"/>
