@@ -97,6 +97,10 @@
   <img src="https://streak-stats.demolab.com/?user=learnerforge&theme=tokyonight&hide_border=true&short_numbers=true" alt="GitHub streak"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=learnerforge&theme=tokyonight&no-frame=true&column=5" alt="GitHub trophies"/>
+</p>
+
 ## <img src="https://api.iconify.design/lucide/quote.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> Random Dev Quote
 
 <p align="center">
