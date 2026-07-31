@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:3FA1FF&height=180&section=header&text=Ganesh%20Bakkera&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:3FA1FF&height=220&section=header&text=Ganesh%20Bakkera&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%"/>
 
 <h1 align="center">Hi there, I'm Ganesh Bakkera</h1>
 
@@ -9,25 +9,39 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Education-B.Tech%20AI%20%26%20ML-3FA1FF?style=for-the-badge" alt="Education"/>
+  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-3FA1FF?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/Open%20To-Internships%20%7C%20Collaborations-3FA1FF?style=for-the-badge" alt="Open to"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/learnerforge"><img src="https://img.shields.io/badge/GitHub-learnerforge-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/ganesh-bakkera-898a0331b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:bakkeraganesh@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <img src="https://img.shields.io/github/followers/learnerforge?style=for-the-badge&color=3FA1FF&label=Followers" alt="GitHub followers"/>
   <img src="https://komarev.com/ghpvc/?username=learnerforge&label=Profile%20Views&color=3FA1FF&style=for-the-badge" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <i>I'm a 5th-semester B.Tech student who turns ideas into complete, well-documented systems.</i>
+  <br/>
+  <i>From pure-CSS art to full-stack AI SaaS — I ship what I learn, and I learn by shipping.</i>
 </p>
 
 ---
 
 ## <img src="https://cdn.simpleicons.org/aboutdotme/3FA1FF" width="24"/> About Me
 
-- <img src="https://cdn.simpleicons.org/bookstack/3FA1FF" width="18"/> B.Tech **CSE (Artificial Intelligence & Machine Learning)** at **Mahatma Gandhi Institute of Technology, Hyderabad** (2024-2028)
-- <img src="https://cdn.simpleicons.org/target/3FA1FF" width="18"/> **Research Intern** at BrightPitch — applying ML/data science to real-world products
-- <img src="https://cdn.simpleicons.org/scikitlearn/3FA1FF" width="18"/> **ML Engineer** · <img src="https://cdn.simpleicons.org/react/3FA1FF" width="18"/> **Full-Stack Developer** · <img src="https://cdn.simpleicons.org/sass/3FA1FF" width="18"/> **Learning Designer** — I adapt to different hats
-- <img src="https://cdn.simpleicons.org/zap/3FA1FF" width="18"/> Currently shipping **Remote_Mouse** — turning a phone into a wireless mouse & media remote
-- <img src="https://cdn.simpleicons.org/githubcopilot/3FA1FF" width="18"/> Exploring the **AI-agent ecosystem**: agent skills, LLM memory, and agentic dev workflows
-- <img src="https://cdn.simpleicons.org/stackoverflow/3FA1FF" width="18"/> Ask me about **Python, FastAPI, ML/NLP, React, and building AI SaaS**
-- <img src="https://cdn.simpleicons.org/lightning/3FA1FF" width="18"/> Fun fact: I imported **87 roadmaps (9,531 topics)** from roadmap.sh into my flagship project
-- <img src="https://cdn.simpleicons.org/target/3FA1FF" width="18"/> Goal: internship-ready by 2027 — I build career tools to get there (resume matcher, skill-gap analyzer)
-- <img src="https://cdn.simpleicons.org/gmail/3FA1FF" width="18"/> How to reach me: [bakkeraganesh@gmail.com](mailto:bakkeraganesh@gmail.com)
-- <img src="https://cdn.simpleicons.org/python/3FA1FF" width="18"/> Currently building with: **Python · FastAPI · Flask · React · PostgreSQL**
+- <img src="https://api.iconify.design/mdi/graduation-cap.svg?color=%233FA1FF&height=18" style="vertical-align: middle"/> B.Tech **CSE (Artificial Intelligence & Machine Learning)** at **Mahatma Gandhi Institute of Technology, Hyderabad** (2024-2028)
+- <img src="https://api.iconify.design/mdi/briefcase-outline.svg?color=%233FA1FF&height=18" style="vertical-align: middle"/> **Research Intern** at BrightPitch — applying ML/data science to real-world products
+- <img src="https://api.iconify.design/mdi/robot-outline.svg?color=%233FA1FF&height=18" style="vertical-align: middle"/> **ML Engineer** · <img src="https://api.iconify.design/mdi/code-tags.svg?color=%233FA1FF&height=18" style="vertical-align: middle"/> **Full-Stack Developer** · <img src="https://api.iconify.design/mdi/palette-outline.svg?color=%233FA1FF&height=18" style="vertical-align: middle"/> **Learning Designer** — I adapt to different hats
+- <img src="https://api.iconify.design/mdi/rocket-outline.svg?color=%233FA1FF&height=18" style="vertical-align: middle"/> Currently shipping **Remote_Mouse** — turning a phone into a wireless mouse & media remote
+- <img src="https://api.iconify.design/mdi/creation.svg?color=%233FA1FF&height=18" style="vertical-align: middle"/> Exploring the **AI-agent ecosystem**: agent skills, LLM memory, and agentic dev workflows
+- <img src="https://api.iconify.design/mdi/comment-text-outline.svg?color=%233FA1FF&height=18" style="vertical-align: middle"/> Ask me about **Python, FastAPI, ML/NLP, React, and building AI SaaS**
+- <img src="https://api.iconify.design/mdi/lightbulb-outline.svg?color=%233FA1FF&height=18" style="vertical-align: middle"/> Fun fact: I imported **87 roadmaps (9,531 topics)** from roadmap.sh into my flagship project
+- <img src="https://api.iconify.design/mdi/target.svg?color=%233FA1FF&height=18" style="vertical-align: middle"/> Goal: internship-ready by 2027 — I build career tools to get there (resume matcher, skill-gap analyzer)
+- <img src="https://api.iconify.design/mdi/email-outline.svg?color=%233FA1FF&height=18" style="vertical-align: middle"/> How to reach me: [bakkeraganesh@gmail.com](mailto:bakkeraganesh@gmail.com)
+- <img src="https://api.iconify.design/mdi/developer-board.svg?color=%233FA1FF&height=18" style="vertical-align: middle"/> Currently building with: **Python · FastAPI · Flask · React · PostgreSQL**
 
 ## <img src="https://cdn.simpleicons.org/flask/3FA1FF" width="24"/> Tech Stack
 
@@ -83,10 +97,6 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=learnerforge&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A2540" alt="GitHub stats"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=learnerforge&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A2540" alt="Top languages"/>
   <img src="https://streak-stats.demolab.com/?user=learnerforge&theme=tokyonight&hide_border=true&short_numbers=true" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=learnerforge&theme=tokyonight&no-frame=true&column=5" alt="GitHub trophies"/>
 </p>
 
 ## <img src="https://cdn.simpleicons.org/markdown/3FA1FF" width="24"/> Random Dev Quote
