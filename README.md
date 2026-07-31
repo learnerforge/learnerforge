@@ -19,6 +19,7 @@
 ## <img src="https://cdn.simpleicons.org/aboutdotme/3FA1FF" width="24"/> About Me
 
 - <img src="https://cdn.simpleicons.org/bookstack/3FA1FF" width="18"/> B.Tech **CSE (Artificial Intelligence & Machine Learning)** at **Mahatma Gandhi Institute of Technology, Hyderabad** (2024-2028)
+- <img src="https://cdn.simpleicons.org/target/3FA1FF" width="18"/> **Research Intern** at BrightPitch — applying ML/data science to real-world products
 - <img src="https://cdn.simpleicons.org/scikitlearn/3FA1FF" width="18"/> **ML Engineer** · <img src="https://cdn.simpleicons.org/react/3FA1FF" width="18"/> **Full-Stack Developer** · <img src="https://cdn.simpleicons.org/sass/3FA1FF" width="18"/> **Learning Designer** — I adapt to different hats
 - <img src="https://cdn.simpleicons.org/zap/3FA1FF" width="18"/> Currently shipping **Remote_Mouse** — turning a phone into a wireless mouse & media remote
 - <img src="https://cdn.simpleicons.org/githubcopilot/3FA1FF" width="18"/> Exploring the **AI-agent ecosystem**: agent skills, LLM memory, and agentic dev workflows
@@ -43,19 +44,19 @@
 
 ## <img src="https://cdn.simpleicons.org/rocket/3FA1FF" width="24"/> Featured Projects
 
-### <img src="https://cdn.simpleicons.org/googlegemini/3FA1FF" width="18"/> PathForge AI — Roadmaps-generator *(flagship)*
+### <img src="https://cdn.simpleicons.org/googlegemini/3FA1FF" width="18"/> [PathForge AI — Roadmaps-generator](https://github.com/learnerforge/Roadmaps-generator) *(flagship)*
 > Full-stack AI roadmap generator. Imports **87 real roadmaps (9,531 topics)** from roadmap.sh, renders an interactive **ReactFlow node graph**, and generates AI explanations, quizzes, and weekly study plans via **Gemini 2.0 (GPT-4o-mini fallback)**.
 > **Stack:** FastAPI · PostgreSQL 16 · SQLAlchemy async · React 18 · Zustand · JWT + OAuth · Docker
 
-### <img src="https://cdn.simpleicons.org/socketdotio/3FA1FF" width="18"/> Remote_Mouse
+### <img src="https://cdn.simpleicons.org/socketdotio/3FA1FF" width="18"/> [Remote_Mouse](https://github.com/learnerforge/Remote_Mouse)
 > Turns your phone into a **wireless mouse + media remote**. Zero phone install — the laptop runs a Python server, the phone just opens a URL. DPI presets (400-3200), two-finger scroll, media keys, **Cloudflare tunnel** with SMTP URL delivery.
 > **Stack:** Flask · Socket.IO · PyAutoGUI · pynput · Cloudflare · CI security audit
 
-### <img src="https://cdn.simpleicons.org/scikitlearn/3FA1FF" width="18"/> AI-GitHub-Repository-Analyzer
+### <img src="https://cdn.simpleicons.org/scikitlearn/3FA1FF" width="18"/> [AI-GitHub-Repository-Analyzer](https://github.com/learnerforge/AI-GitHub-Repository-Analyzer)
 > Paste any GitHub URL to get a **9-dimension quality analysis in under 30 seconds**. Deterministic offline NLP (TextRank), secret scanning, architecture detection, and a **Q-learning tuner** that improves scoring from user feedback. No black-box AI.
 > **Stack:** FastAPI · httpx · NLP · Q-learning · MIT licensed
 
-### <img src="https://cdn.simpleicons.org/react/3FA1FF" width="18"/> NexaSite
+### <img src="https://cdn.simpleicons.org/react/3FA1FF" width="18"/> [NexaSite](https://github.com/learnerforge/NexaSite)
 > Professional, responsive **business landing-page template** with a 3-mode theme system (dark/blue/dust), scroll animations, and an accessible contact form.
 > **Stack:** React 19 · Vite · Tailwind v4 · AOS
 
@@ -71,16 +72,16 @@
 
 ## <img src="https://cdn.simpleicons.org/github/3FA1FF" width="24"/> More Projects (remixed & extended)
 
-- **smart-mobility-insights** — pan-India Django mobility platform wired to **11 government open datasets** (~210K records, 20 API endpoints)
-- **SkillGapAI_Project** — employability analyzer with **Random Forest + Decision Tree** ML models and a 68K+ course engine
-- **resume-screening-ml** — ATS-style resume matcher using **TF-IDF + spaCy** against a 220+ skill dataset
-- **login-page** — "LearnerForge — Scholar's Hall": pure-CSS ancient-Chinese aesthetic login page (12+ layers, no images)
+- [**smart-mobility-insights**](https://github.com/learnerforge/smart-mobility-insights) — pan-India Django mobility platform wired to **11 government open datasets** (~210K records, 20 API endpoints)
+- [**SkillGapAI_Project**](https://github.com/learnerforge/SkillGapAI_Project) — employability analyzer with **Random Forest + Decision Tree** ML models and a 68K+ course engine
+- [**resume-screening-ml**](https://github.com/learnerforge/resume-screening-ml) — ATS-style resume matcher using **TF-IDF + spaCy** against a 220+ skill dataset
+- [**login-page**](https://github.com/learnerforge/login-page) — "LearnerForge — Scholar's Hall": pure-CSS ancient-Chinese aesthetic login page (12+ layers, no images)
 
 ## <img src="https://cdn.simpleicons.org/chartdotjs/3FA1FF" width="24"/> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=learnerforge&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A2540" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnerforge&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A2540" alt="Top languages"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=learnerforge&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A2540" alt="GitHub stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=learnerforge&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A2540" alt="Top languages"/>
   <img src="https://streak-stats.demolab.com/?user=learnerforge&theme=tokyonight&hide_border=true&short_numbers=true" alt="GitHub streak"/>
 </p>
 
