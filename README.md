@@ -48,7 +48,7 @@
 <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,postgres,sqlite,react,vite,tailwind,javascript,html,css,docker,git,linux&perline=8" alt="Tech stack"/>
 
 <p align="center">
-  <img src="https://profilekit.vercel.app/api/tags?theme=tokyo_night&tags=Python:3776ab,FastAPI:009688,Flask:000000,Django:092E20,PostgreSQL:336791,SQLite:003B57,React:61DAFB,Vite:646CFF,Tailwind:38BDF8,JavaScript:F7DF1E,Docker:2496ED,OpenAI:412991,Gemini:8E75B2,scikit-learn:F7931E,spaCy:09A3D5,Socket.IO:010101" alt="Tech tags"/>
+  <img src="https://profilekit.vercel.app/api/tags?theme=tokyo_night&title=Stack&tags=Python:3776ab,FastAPI:009688,Flask:000000,Django:092E20,PostgreSQL:336791,SQLite:003B57,React:61DAFB,Vite:646CFF,Tailwind:38BDF8,JavaScript:F7DF1E,Docker:2496ED,OpenAI:412991,Gemini:8E75B2,scikit-learn:F7931E,spaCy:09A3D5,Socket.IO:010101" alt="Stack tags"/>
 </p>
 
 ## <img src="https://api.iconify.design/lucide/package.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> Featured Projects
