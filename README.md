@@ -112,10 +112,16 @@
   <img src="https://metrics.lecoq.io/learnerforge?template=classic&config.twemoji=false&config.timezone=Asia%2FKolkata" alt="Metrics dashboard"/>
 </p>
 
-## <img src="https://api.iconify.design/lucide/quote.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> Random Dev Quote
+## <img src="https://api.iconify.design/lucide/quote.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> Quotes I Code By
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
+  <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i> — <b>Martin Fowler</b>
+  <br/><br/>
+  <i>"First, solve the problem. Then, write the code."</i> — <b>John Johnson</b>
+  <br/><br/>
+  <i>"Make it work, make it right, make it fast."</i> — <b>Kent Beck</b>
+  <br/><br/>
+  <i>"The best way to predict the future is to invent it."</i> — <b>Alan Kay</b>
 </p>
 
 ## <img src="https://api.iconify.design/lucide/activity.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> What I'm Up To
@@ -138,9 +144,11 @@
 
 I'm always happy to collaborate on **AI/ML and full-stack projects**. Open to internships, research, and hackathon teams.
 
-<img src="https://api.iconify.design/lucide/github.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **GitHub:** [learnerforge](https://github.com/learnerforge)
-<img src="https://api.iconify.design/lucide/linkedin.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **LinkedIn:** [Ganesh Bakkera](https://www.linkedin.com/in/ganesh-bakkera-898a0331b)
-<img src="https://api.iconify.design/lucide/mail.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Email:** [bakkeraganesh@gmail.com](mailto:bakkeraganesh@gmail.com)
+<p align="center">
+  <a href="https://github.com/learnerforge"><img src="https://img.shields.io/badge/GitHub-learnerforge-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/ganesh-bakkera-898a0331b"><img src="https://img.shields.io/badge/LinkedIn-Ganesh%20Bakkera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:bakkeraganesh@gmail.com"><img src="https://img.shields.io/badge/Email-bakkeraganesh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 If you found any of my projects useful, a star would make my day!
 
