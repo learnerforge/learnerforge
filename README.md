@@ -48,12 +48,7 @@
 <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,postgres,sqlite,react,vite,tailwind,javascript,html,css,docker,git,linux&perline=8" alt="Tech stack"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" alt="spaCy"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.IO"/>
-  <img src="https://img.shields.io/badge/ReactFlow-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="ReactFlow"/>
+  <img src="https://profilekit.vercel.app/api/tags?theme=tokyo_night&tags=Python:3776ab,FastAPI:009688,Flask:000000,Django:092E20,PostgreSQL:336791,SQLite:003B57,React:61DAFB,Vite:646CFF,Tailwind:38BDF8,JavaScript:F7DF1E,Docker:2496ED,OpenAI:412991,Gemini:8E75B2,scikit-learn:F7931E,spaCy:09A3D5,Socket.IO:010101" alt="Tech tags"/>
 </p>
 
 ## <img src="https://api.iconify.design/lucide/package.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> Featured Projects
@@ -96,7 +91,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=learnerforge&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A2540" width="400" alt="GitHub stats"/>
+      <img src="https://profilekit.vercel.app/api/stats?username=learnerforge&theme=tokyo_night" alt="GitHub stats"/>
     </td>
     <td align="center">
       <img src="https://streak-stats.demolab.com/?user=learnerforge&theme=tokyonight&hide_border=true&short_numbers=true" width="350" alt="GitHub streak"/>
@@ -110,6 +105,10 @@
 
 <p align="center">
   <img src="https://metrics.lecoq.io/learnerforge?template=classic&config.twemoji=false&config.timezone=Asia%2FKolkata" alt="Metrics dashboard"/>
+</p>
+
+<p align="center">
+  <img src="github-metrics.svg" alt="Deep metrics dashboard"/>
 </p>
 
 ## <img src="https://api.iconify.design/lucide/quote.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> Quotes I Code By
@@ -132,13 +131,9 @@
 
 ## <img src="https://api.iconify.design/lucide/calendar.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> My Learning Journey
 
-| Time | Milestone |
-|---|---|
-| **2024** | **Frontend foundation** — NexaSite (React 19/Vite/Tailwind) + pure-CSS design art |
-| **2025** | **Backend & data** — Django + 11 government datasets · FastAPI + PostgreSQL |
-| **2025** | **ML / NLP** — TF-IDF + spaCy · Random Forest · TextRank + Q-learning |
-| **2026** | **Full-stack AI SaaS** — PathForge AI (Gemini + ReactFlow + JWT) |
-| **2026** | **Systems & DevOps** — Remote_Mouse (Socket.IO + PyAutoGUI + CI security audits) |
+<p align="center">
+  <img src="https://profilekit.vercel.app/api/timeline?theme=tokyo_night&items=2024%3BFrontend%20foundation%3BNexaSite%20(React%2019%20%2F%20Vite%20%2F%20Tailwind)%20%2B%20pure-CSS%20design%20art%7C2025%3BBackend%20%26%20data%3BDjango%20%2B%20gov%20datasets%2C%20FastAPI%20%2B%20PostgreSQL%7C2025%3BML%20%2F%20NLP%3BTF-IDF%20%2B%20spaCy%2C%20Random%20Forest%2C%20TextRank%20%2B%20Q-learning%7C2026%3BFull-stack%20AI%20SaaS%3BPathForge%20AI%20(Gemini%20%2B%20ReactFlow%20%2B%20JWT)%7C2026%3BSystems%20%26%20DevOps%3BRemote_Mouse%20(Socket.IO%20%2B%20PyAutoGUI%20%2B%20CI%20audits)" alt="My Learning Journey timeline"/>
+</p>
 
 ## <img src="https://api.iconify.design/lucide/mail.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> Let's Connect
 
