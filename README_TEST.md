@@ -45,7 +45,9 @@
 
 ## <img src="https://api.iconify.design/lucide/terminal.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,postgres,sqlite,react,vite,tailwind,javascript,html,css,docker,git,linux&perline=8" alt="Tech stack"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,postgres,sqlite,react,vite,tailwind,javascript,html,css,docker,git,linux&perline=8" alt="Tech stack"/>
+</p>
 
 ## <img src="https://api.iconify.design/lucide/package.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> Featured Projects
 
@@ -87,7 +89,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=learnerforge&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A2540" width="400" alt="GitHub stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=learnerforge&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
     </td>
     <td align="center">
       <img src="https://streak-stats.demolab.com/?user=learnerforge&theme=tokyonight&hide_border=true&short_numbers=true" width="350" alt="GitHub streak"/>
@@ -100,36 +102,38 @@
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/learnerforge?template=classic&config.twemoji=false&config.timezone=Asia%2FKolkata" alt="Metrics dashboard"/>
+  <img src="https://metrics.lecoq.io/learnerforge?template=classic&config.twemoji=false&config.timezone=Asia%2FKolkata" alt="Deep metrics dashboard"/>
 </p>
 
 ## <img src="https://api.iconify.design/lucide/quote.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> Quotes I Code By
 
-<p align="center">
-  <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i> — <b>Martin Fowler</b>
-  <br/><br/>
-  <i>"First, solve the problem. Then, write the code."</i> — <b>John Johnson</b>
-  <br/><br/>
-  <i>"Make it work, make it right, make it fast."</i> — <b>Kent Beck</b>
-  <br/><br/>
-  <i>"The best way to predict the future is to invent it."</i> — <b>Alan Kay</b>
-</p>
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
+> — **Martin Fowler**
+
+> *"First, solve the problem. Then, write the code."*
+> — **John Johnson**
+
+> *"Make it work, make it right, make it fast."*
+> — **Kent Beck**
+
+> *"The best way to predict the future is to invent it."*
+> — **Alan Kay**
 
 ## <img src="https://api.iconify.design/lucide/activity.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> What I'm Up To
 
-<img src="https://api.iconify.design/lucide/mouse-pointer.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> Pushing **Remote_Mouse** daily — [latest commits](https://github.com/learnerforge/Remote_Mouse)
-<img src="https://api.iconify.design/lucide/rocket.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> Productionizing **PathForge AI** — hosting + open-source release
-<img src="https://api.iconify.design/lucide/sparkles.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> Deep-diving the **AI-agent ecosystem** (agent-skills, Agent-Reach, CopilotKit)
+- <img src="https://api.iconify.design/lucide/mouse-pointer.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> Pushing **Remote_Mouse** daily — [latest commits](https://github.com/learnerforge/Remote_Mouse)
+- <img src="https://api.iconify.design/lucide/rocket.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> Productionizing **PathForge AI** — hosting + open-source release
+- <img src="https://api.iconify.design/lucide/sparkles.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> Deep-diving the **AI-agent ecosystem** (agent-skills, Agent-Reach, CopilotKit)
 
 ## <img src="https://api.iconify.design/lucide/calendar.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> My Learning Journey
 
-| Time | Milestone |
-|---|---|
-| **2024** | **Frontend foundation** — NexaSite (React 19 / Vite / Tailwind) + pure-CSS design art |
-| **2025** | **Backend & data** — Django + 11 gov datasets · FastAPI + PostgreSQL |
-| **2025** | **ML / NLP** — TF-IDF + spaCy · Random Forest · TextRank + Q-learning |
-| **2026** | **Full-stack AI SaaS** — PathForge AI (Gemini + ReactFlow + JWT) |
-| **2026** | **Systems & DevOps** — Remote_Mouse (Socket.IO + PyAutoGUI + CI audits) |
+| Year | Focus | Highlights |
+|---|---|---|
+| 2024 | Frontend foundation | NexaSite (React 19 / Vite / Tailwind) + pure-CSS design art |
+| 2025 | Backend & data | Django + government datasets, FastAPI + PostgreSQL |
+| 2025 | ML / NLP | TF-IDF + spaCy, Random Forest, TextRank + Q-learning |
+| 2026 | Full-stack AI SaaS | PathForge AI (Gemini + ReactFlow + JWT) |
+| 2026 | Systems & DevOps | Remote_Mouse (Socket.IO + PyAutoGUI + CI audits) |
 
 ## <img src="https://api.iconify.design/lucide/mail.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> Let's Connect
 
