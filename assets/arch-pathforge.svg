@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="560" viewBox="0 0 920 560" role="img" aria-label="PathForge AI architecture">
+  <defs>
+    <filter id="arch-glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="10" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="arch-soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+  </defs>
+
+  <rect width="920" height="560" rx="16" fill="#0A2540" stroke="#12294A" stroke-width="2"/>
+
+  <g stroke="#2E6FBF" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <path d="M460 110 V225"/>
+    <path d="M400 310 C350 370 260 370 222 400"/>
+    <path d="M520 310 C575 330 615 335 655 340"/>
+    <path d="M700 420 V448" stroke-dasharray="5 6"/>
+  </g>
+
+  <g fill="none">
+    <circle r="5" fill="#6CC6FF" filter="url(#arch-soft)">
+      <animateMotion dur="3s" repeatCount="indefinite" path="M460 110 V225"/>
+    </circle>
+    <circle r="5" fill="#6CC6FF" filter="url(#arch-soft)">
+      <animateMotion dur="4s" repeatCount="indefinite" begin="1.5s" path="M400 310 C350 370 260 370 222 400"/>
+    </circle>
+    <circle r="5" fill="#FFB74D" filter="url(#arch-soft)">
+      <animateMotion dur="4.5s" repeatCount="indefinite" begin="0.8s" path="M520 310 C575 330 615 335 655 340"/>
+    </circle>
+    <circle r="4.5" fill="#6CC6FF" filter="url(#arch-soft)">
+      <animateMotion dur="2s" repeatCount="indefinite" begin="1s" path="M700 420 V448"/>
+    </circle>
+  </g>
+
+  <g>
+    <rect x="330" y="40" width="260" height="70" rx="12" fill="none" stroke="#6CC6FF" stroke-width="2.5" filter="url(#arch-glow)" stroke-opacity="0.25">
+      <animate attributeName="stroke-opacity" values="0.25;0.6;0.25" dur="4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="330" y="40" width="260" height="70" rx="12" fill="#0E2A4D" stroke="#6CC6FF" stroke-width="2.5"/>
+    <text x="460" y="70" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="18" font-weight="700" fill="#6CC6FF">ReactFlow UI</text>
+    <text x="460" y="93" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#8B9BB4">React 18 · Zustand · Tailwind</text>
+
+    <rect x="330" y="230" width="260" height="80" rx="12" fill="none" stroke="#3FA1FF" stroke-width="2.5" filter="url(#arch-glow)" stroke-opacity="0.25">
+      <animate attributeName="stroke-opacity" values="0.25;0.7;0.25" dur="5s" begin="0.5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="330" y="230" width="260" height="80" rx="12" fill="#0E2A4D" stroke="#3FA1FF" stroke-width="2.5"/>
+    <text x="460" y="262" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="18" font-weight="700" fill="#3FA1FF">FastAPI Backend</text>
+    <text x="460" y="285" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#8B9BB4">REST + WebSocket · JWT/OAuth · SQLAlchemy async</text>
+
+    <rect x="70" y="400" width="260" height="80" rx="12" fill="none" stroke="#FFB74D" stroke-width="2.5" filter="url(#arch-glow)" stroke-opacity="0.25">
+      <animate attributeName="stroke-opacity" values="0.25;0.65;0.25" dur="4.5s" begin="1s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="70" y="400" width="260" height="80" rx="12" fill="#0E2A4D" stroke="#FFB74D" stroke-width="2.5"/>
+    <text x="200" y="432" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="18" font-weight="700" fill="#FFB74D">PostgreSQL 16</text>
+    <text x="200" y="455" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#8B9BB4">87 roadmaps · 9,531 topics</text>
+
+    <rect x="560" y="340" width="280" height="80" rx="12" fill="none" stroke="#6CC6FF" stroke-width="2.5" filter="url(#arch-glow)" stroke-opacity="0.25">
+      <animate attributeName="stroke-opacity" values="0.25;0.7;0.25" dur="4s" begin="1.5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="560" y="340" width="280" height="80" rx="12" fill="#0E2A4D" stroke="#6CC6FF" stroke-width="2.5"/>
+    <text x="700" y="372" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="18" font-weight="700" fill="#6CC6FF">Gemini 2.0</text>
+    <text x="700" y="395" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#8B9BB4">primary LLM · explanations · quizzes · plans</text>
+
+    <rect x="560" y="450" width="280" height="70" rx="12" fill="#0E2A4D" stroke="#3FA1FF" stroke-width="1.5" stroke-dasharray="6 5"/>
+    <text x="700" y="482" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="17" font-weight="700" fill="#3FA1FF">GPT-4o-mini</text>
+    <text x="700" y="503" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#8B9BB4">fallback when Gemini is unavailable</text>
+  </g>
+
+  <text x="460" y="160" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#8B9BB4">session + auth</text>
+  <text x="290" y="392" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#8B9BB4">read / write</text>
+  <text x="600" y="322" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#8B9BB4">generate</text>
+</svg>

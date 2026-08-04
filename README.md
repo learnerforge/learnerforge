@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:3FA1FF&height=220&section=header&text=Ganesh%20Bakkera&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/learnerforge/learnerforge/main/assets/aurora-header.svg" width="100%" alt="Aurora banner"/>
+</p>
 
 <h1 align="center">Hi there, I'm Ganesh Bakkera</h1>
 
@@ -28,6 +30,10 @@
   <i>From pure-CSS art to full-stack AI SaaS — I ship what I learn, and I learn by shipping.</i>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/learnerforge/learnerforge/main/assets/terminal-whoami.svg" width="100%" alt="Terminal whoami"/>
+</p>
+
 ---
 
 ## <img src="https://api.iconify.design/lucide/user.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> About Me
@@ -54,6 +60,10 @@
   <img src="https://img.shields.io/badge/ReactFlow-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="ReactFlow"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/learnerforge/learnerforge/main/assets/skill-radar.svg" width="55%" alt="Skill radar"/>
+</p>
+
 ## <img src="https://api.iconify.design/lucide/package.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> Featured Projects
 
 ### <img src="https://api.iconify.design/lucide/map.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> [PathForge AI — Roadmaps-generator](https://github.com/learnerforge/Roadmaps-generator) *(flagship)*
@@ -71,6 +81,20 @@
 ### <img src="https://api.iconify.design/lucide/layout.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> [NexaSite](https://github.com/learnerforge/NexaSite)
 > Professional, responsive **business landing-page template** with a 3-mode theme system (dark/blue/dust), scroll animations, and an accessible contact form.
 > **Stack:** React 19 · Vite · Tailwind v4 · AOS
+
+## <img src="https://api.iconify.design/lucide/cpu.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> How PathForge AI Works
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/learnerforge/learnerforge/main/assets/arch-pathforge.svg" width="100%" alt="PathForge AI architecture"/>
+</p>
+
+## <img src="https://api.iconify.design/lucide/bot.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> Inside the Agent Brain
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/learnerforge/learnerforge/main/assets/agent-brain.svg" width="72%" alt="AI agent architecture"/>
+</p>
+
+I'm studying how agents **remember, plan, reason, and act** — and how to make that loop reliable, observable, and safe in production systems.
 
 ## <img src="https://api.iconify.design/lucide/layers.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> Skills Breakdown
 
@@ -101,6 +125,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=learnerforge&theme=tokyonight&no-frame=true&column=5" alt="GitHub trophies"/>
 </p>
 
+<p align="center">
+  <img src="https://metrics.lecoq.io/learnerforge?template=classic&config.twemoji=false&config.timezone=Asia%2FKolkata" alt="Metrics dashboard"/>
+</p>
+
 ## <img src="https://api.iconify.design/lucide/quote.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> Random Dev Quote
 
 <p align="center">
@@ -120,6 +148,22 @@
 - **Phase 3 — ML / NLP:** TF-IDF + spaCy · Random Forest · TextRank + Q-learning
 - **Phase 4 — Full-stack AI SaaS:** PathForge AI (Gemini + ReactFlow + JWT)
 - **Phase 5 — Systems & DevOps:** Remote_Mouse (Socket.IO + PyAutoGUI + CI security audits)
+
+## <img src="https://api.iconify.design/lucide/workflow.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> How I Ship
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/learnerforge/learnerforge/main/assets/project-pipeline.svg" width="100%" alt="Project pipeline"/>
+</p>
+
+Every project here went through this loop — nothing stops at the prototype stage.
+
+## <img src="https://api.iconify.design/lucide/compass.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> Engineering Principles
+
+<img src="https://api.iconify.design/lucide/gauge.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Solve before optimizing** — a working 95% beats a perfect 0%
+<img src="https://api.iconify.design/lucide/refresh-cw.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Automate repetitive work** — if I do it twice, I script it
+<img src="https://api.iconify.design/lucide/home.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Build locally first** — no cloud dependency before it earns one
+<img src="https://api.iconify.design/lucide/line-chart.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Prefer measurable impact** — users and metrics over hype
+<img src="https://api.iconify.design/lucide/book-open.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Document everything** — READMEs are the product too
 
 ## <img src="https://api.iconify.design/lucide/mail.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> Let's Connect
 

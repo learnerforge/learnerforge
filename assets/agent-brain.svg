@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="620" viewBox="0 0 820 620" role="img" aria-label="AI agent architecture">
+  <defs>
+    <filter id="brain-glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <radialGradient id="brain-core" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFB74D"/>
+      <stop offset="100%" stop-color="#3FA1FF"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="820" height="620" rx="16" fill="#0A2540" stroke="#12294A" stroke-width="2"/>
+
+  <g fill="none" stroke="#12294A" stroke-width="1.5">
+    <circle cx="410" cy="310" r="150"/>
+    <circle cx="410" cy="310" r="250" stroke-dasharray="4 8"/>
+  </g>
+
+  <g fill="none" stroke="#2E6FBF" stroke-width="2">
+    <path d="M410 310 L410 70"/>
+    <path d="M410 310 L638 236"/>
+    <path d="M410 310 L551 504"/>
+    <path d="M410 310 L269 504"/>
+    <path d="M410 310 L182 236"/>
+  </g>
+
+  <g fill="none" stroke="#3FA1FF" stroke-width="2">
+    <circle cx="410" cy="310" r="70"><animate attributeName="r" values="70;235" dur="3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.55;0" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="410" cy="310" r="70"><animate attributeName="r" values="70;235" dur="3s" begin="1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.55;0" dur="3s" begin="1s" repeatCount="indefinite"/></circle>
+    <circle cx="410" cy="310" r="70"><animate attributeName="r" values="70;235" dur="3s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.55;0" dur="3s" begin="2s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g fill="none">
+    <circle r="5" fill="#6CC6FF" filter="url(#brain-glow)"><animateMotion dur="2.5s" repeatCount="indefinite" path="M410 310 L410 70"/></circle>
+    <circle r="5" fill="#3FA1FF" filter="url(#brain-glow)"><animateMotion dur="2.5s" begin="0.5s" repeatCount="indefinite" path="M410 310 L638 236"/></circle>
+    <circle r="5" fill="#FFB74D" filter="url(#brain-glow)"><animateMotion dur="2.5s" begin="1s" repeatCount="indefinite" path="M410 310 L551 504"/></circle>
+    <circle r="5" fill="#3FA1FF" filter="url(#brain-glow)"><animateMotion dur="2.5s" begin="1.5s" repeatCount="indefinite" path="M410 310 L269 504"/></circle>
+    <circle r="5" fill="#6CC6FF" filter="url(#brain-glow)"><animateMotion dur="2.5s" begin="2s" repeatCount="indefinite" path="M410 310 L182 236"/></circle>
+  </g>
+
+  <g font-family="'Segoe UI', Arial, sans-serif" text-anchor="middle">
+    <circle cx="410" cy="310" r="70" fill="#0E2A4D" stroke="#FFB74D" stroke-width="3" filter="url(#brain-glow)" stroke-opacity="0.4">
+      <animate attributeName="stroke-opacity" values="0.4;0.9;0.4" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="410" y="308" font-size="19" font-weight="700" fill="#FFB74D">Agent Core</text>
+    <text x="410" y="330" font-size="12" fill="#8B9BB4">orchestrator</text>
+
+    <circle cx="410" cy="70" r="46" fill="#0E2A4D" stroke="#6CC6FF" stroke-width="2.5"/>
+    <text x="410" y="66" font-size="16" font-weight="700" fill="#6CC6FF">Memory</text>
+    <text x="410" y="86" font-size="11" fill="#8B9BB4">short + long term</text>
+
+    <circle cx="638" cy="236" r="46" fill="#0E2A4D" stroke="#3FA1FF" stroke-width="2.5"/>
+    <text x="638" y="232" font-size="16" font-weight="700" fill="#3FA1FF">Planning</text>
+    <text x="638" y="252" font-size="11" fill="#8B9BB4">decompose tasks</text>
+
+    <circle cx="551" cy="504" r="46" fill="#0E2A4D" stroke="#FFB74D" stroke-width="2.5"/>
+    <text x="551" y="500" font-size="16" font-weight="700" fill="#FFB74D">Reasoning</text>
+    <text x="551" y="520" font-size="11" fill="#8B9BB4">reflect &amp; retry</text>
+
+    <circle cx="269" cy="504" r="46" fill="#0E2A4D" stroke="#3FA1FF" stroke-width="2.5"/>
+    <text x="269" y="500" font-size="16" font-weight="700" fill="#3FA1FF">Execution</text>
+    <text x="269" y="520" font-size="11" fill="#8B9BB4">act &amp; observe</text>
+
+    <circle cx="182" cy="236" r="46" fill="#0E2A4D" stroke="#6CC6FF" stroke-width="2.5"/>
+    <text x="182" y="232" font-size="16" font-weight="700" fill="#6CC6FF">Tools</text>
+    <text x="182" y="252" font-size="11" fill="#8B9BB4">API · code · search</text>
+  </g>
+
+  <text x="410" y="596" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#8B9BB4">memory &#8594; plan &#8594; reason &#8594; execute &#8594; observe &#8594; repeat</text>
+</svg>
