@@ -32,14 +32,16 @@
 
 ## <img src="https://api.iconify.design/lucide/user.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> About Me
 
-<img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Education** — B.Tech CSE (AI & ML) at MGIT, Hyderabad (2024-2028)
-<img src="https://api.iconify.design/lucide/briefcase.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Experience** — Research Intern at BrightPitch
-<img src="https://api.iconify.design/lucide/brain.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Roles** — ML Engineer · <img src="https://api.iconify.design/lucide/layers.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> Full-Stack Developer · <img src="https://api.iconify.design/lucide/book-open.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> Learning Designer
-<img src="https://api.iconify.design/lucide/smartphone.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Focus** — shipping [Remote_Mouse](https://github.com/learnerforge/Remote_Mouse), a wireless mouse from your phone
-<img src="https://api.iconify.design/lucide/network.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Interests** — AI agents, agent memory, agentic workflows
-<img src="https://api.iconify.design/lucide/terminal.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Stack** — Python · FastAPI · Flask · React · PostgreSQL
-<img src="https://api.iconify.design/lucide/lightbulb.svg?color=%23FFB74D&height=18" style="vertical-align: middle; margin-right: 6px"/> **Fun fact** — 87 roadmaps (9,531 topics) in [PathForge AI](https://github.com/learnerforge/Roadmaps-generator)
-<img src="https://api.iconify.design/lucide/target.svg?color=%23FFB74D&height=18" style="vertical-align: middle; margin-right: 6px"/> **Goal** — internship-ready by 2027
+| | |
+|---|---|
+| <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Education** | B.Tech CSE (AI & ML) at MGIT, Hyderabad (2024-2028) |
+| <img src="https://api.iconify.design/lucide/briefcase.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Experience** | Research Intern at BrightPitch |
+| <img src="https://api.iconify.design/lucide/brain.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Roles** | ML Engineer · Full-Stack Developer · Learning Designer |
+| <img src="https://api.iconify.design/lucide/smartphone.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Focus** | Shipping [Remote_Mouse](https://github.com/learnerforge/Remote_Mouse), a wireless mouse from your phone |
+| <img src="https://api.iconify.design/lucide/network.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Interests** | AI agents, agent memory, agentic workflows |
+| <img src="https://api.iconify.design/lucide/terminal.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Stack** | Python · FastAPI · Flask · React · PostgreSQL |
+| <img src="https://api.iconify.design/lucide/lightbulb.svg?color=%23FFB74D&height=18" style="vertical-align: middle; margin-right: 6px"/> **Fun fact** | 87 roadmaps (9,531 topics) in [PathForge AI](https://github.com/learnerforge/Roadmaps-generator) |
+| <img src="https://api.iconify.design/lucide/target.svg?color=%23FFB74D&height=18" style="vertical-align: middle; margin-right: 6px"/> **Goal** | Internship-ready by 2027 |
 
 ## <img src="https://api.iconify.design/lucide/terminal.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> Tech Stack
 
@@ -91,14 +93,23 @@
 
 ## <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> GitHub Stats
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=learnerforge&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A2540" width="400" alt="GitHub stats"/>
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=learnerforge&theme=tokyonight&hide_border=true&short_numbers=true" width="350" alt="GitHub streak"/>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=learnerforge&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A2540" alt="GitHub stats"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=learnerforge&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A2540" alt="Top languages"/>
-  <img src="https://streak-stats.demolab.com/?user=learnerforge&theme=tokyonight&hide_border=true&short_numbers=true" alt="GitHub streak"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=learnerforge&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A2540" width="70%" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=learnerforge&theme=tokyonight&no-frame=true&column=5" alt="GitHub trophies"/>
+  <img src="https://metrics.lecoq.io/learnerforge?template=classic&config.twemoji=false&config.timezone=Asia%2FKolkata" alt="Metrics dashboard"/>
 </p>
 
 ## <img src="https://api.iconify.design/lucide/quote.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> Random Dev Quote
@@ -113,13 +124,15 @@
 <img src="https://api.iconify.design/lucide/rocket.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> Productionizing **PathForge AI** — hosting + open-source release
 <img src="https://api.iconify.design/lucide/sparkles.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> Deep-diving the **AI-agent ecosystem** (agent-skills, Agent-Reach, CopilotKit)
 
-## <img src="https://api.iconify.design/lucide/map.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> My Learning Journey
+## <img src="https://api.iconify.design/lucide/calendar.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> My Learning Journey
 
-- **Phase 1 — Frontend:** NexaSite (React 19/Vite/Tailwind) + pure-CSS design art
-- **Phase 2 — Backend & Data:** Django + 11 datasets · FastAPI + PostgreSQL
-- **Phase 3 — ML / NLP:** TF-IDF + spaCy · Random Forest · TextRank + Q-learning
-- **Phase 4 — Full-stack AI SaaS:** PathForge AI (Gemini + ReactFlow + JWT)
-- **Phase 5 — Systems & DevOps:** Remote_Mouse (Socket.IO + PyAutoGUI + CI security audits)
+| Time | Milestone |
+|---|---|
+| **2024** | **Frontend foundation** — NexaSite (React 19/Vite/Tailwind) + pure-CSS design art |
+| **2025** | **Backend & data** — Django + 11 government datasets · FastAPI + PostgreSQL |
+| **2025** | **ML / NLP** — TF-IDF + spaCy · Random Forest · TextRank + Q-learning |
+| **2026** | **Full-stack AI SaaS** — PathForge AI (Gemini + ReactFlow + JWT) |
+| **2026** | **Systems & DevOps** — Remote_Mouse (Socket.IO + PyAutoGUI + CI security audits) |
 
 ## <img src="https://api.iconify.design/lucide/mail.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> Let's Connect
 
