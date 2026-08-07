@@ -83,12 +83,12 @@ From pure-CSS art to full-stack AI SaaS — learn by shipping.
 ## <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=learnerforge&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A2540&hide_rank=true&rank_icon=github&cache_seconds=1800" width="420" alt="GitHub stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=learnerforge&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A2540&hide_rank=true&rank_icon=github&cache_seconds=1800" width="420" alt="GitHub stats"/>
   <img src="https://streak-stats.demolab.com/?user=learnerforge&theme=tokyonight&hide_border=true&short_numbers=true" width="380" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnerforge&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A2540&cache_seconds=1800" width="70%" alt="Top languages"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=learnerforge&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A2540&cache_seconds=1800" width="70%" alt="Top languages"/>
 </p>
 
 <p align="center">
