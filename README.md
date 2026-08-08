@@ -1,4 +1,4 @@
-<h1 align="center">Ganesh Bakkera</h1>
+<h1 align="center" style="font-family: 'Fira Code', 'Segoe UI', monospace; color: #3FA1FF; letter-spacing: 2px; text-shadow: 0 0 12px rgba(63,161,255,0.35);">Ganesh Bakkera</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
