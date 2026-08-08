@@ -20,8 +20,6 @@
   <img src="https://komarev.com/ghpvc/?username=learnerforge&label=Profile%20Views&color=3FA1FF&style=for-the-badge" alt="Profile views"/>
 </p>
 
-<img src="assets/wave-hero.svg" width="100%" alt=""/>
-
 ```sh
 $ whoami
 Ganesh Bakkera — AI & ML B.Tech @ MGIT Hyderabad
@@ -43,8 +41,6 @@ From pure-CSS art to full-stack AI SaaS — learn by shipping.
 <img src="https://api.iconify.design/lucide/terminal.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Stack** — Python · FastAPI · Flask · React · PostgreSQL<br/>
 <img src="https://api.iconify.design/lucide/lightbulb.svg?color=%23FFB74D&height=18" style="vertical-align: middle; margin-right: 6px"/> **Fun fact** — 87 roadmaps (9,531 topics) in [PathForge AI](https://github.com/learnerforge/Roadmaps-generator)<br/>
 <img src="https://api.iconify.design/lucide/target.svg?color=%23FFB74D&height=18" style="vertical-align: middle; margin-right: 6px"/> **Goal** — Internship-ready by 2027
-
-<img src="assets/wave-divider.svg" width="100%" alt=""/>
 
 ## <img src="https://api.iconify.design/lucide/terminal.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> Tech Stack
 
@@ -76,8 +72,6 @@ From pure-CSS art to full-stack AI SaaS — learn by shipping.
 >
 > <img src="https://img.shields.io/github/stars/learnerforge/NexaSite?style=flat-square&logo=github&color=3FA1FF&label=Stars" alt="Stars"/>
 
-<img src="assets/wave-divider.svg" width="100%" alt=""/>
-
 ## <img src="https://api.iconify.design/lucide/layers.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> Skills Breakdown
 
 <img src="https://api.iconify.design/lucide/layers.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Backend** — FastAPI · Flask · Django · SQLAlchemy · Alembic · PostgreSQL · SQLite<br/>
@@ -104,8 +98,6 @@ From pure-CSS art to full-stack AI SaaS — learn by shipping.
 <p align="center">
   <img src="https://metrics.lecoq.io/learnerforge?template=classic&config.twemoji=false&config.timezone=Asia%2FKolkata" alt="Metrics dashboard"/>
 </p>
-
-<img src="assets/wave-divider.svg" width="100%" alt=""/>
 
 ## <img src="https://api.iconify.design/lucide/archive.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> More Projects
 
@@ -145,8 +137,6 @@ From pure-CSS art to full-stack AI SaaS — learn by shipping.
 <img src="https://api.iconify.design/lucide/calendar.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **2026** — **Full-stack AI SaaS** — PathForge AI (Gemini + ReactFlow + JWT)<br/>
 <img src="https://api.iconify.design/lucide/calendar.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **2026** — **Systems & DevOps** — Remote_Mouse (Socket.IO + PyAutoGUI + CI audits)
 
-<img src="assets/wave-divider.svg" width="100%" alt=""/>
-
 ## <img src="https://api.iconify.design/lucide/mail.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> Let's Connect
 
 I'm always happy to collaborate on **AI/ML and full-stack projects**. Open to internships, research, and hackathon teams.
@@ -166,5 +156,3 @@ If you found any of my projects useful, a star would make my day!
 <p align="center">
   <code>Build, learn, grow — the Forge way.</code>
 </p>
-
-<img src="assets/wave-footer.svg" width="100%" alt=""/>
