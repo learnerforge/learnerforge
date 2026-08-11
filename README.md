@@ -229,7 +229,7 @@ Software engineer focused on **AI/ML products and full-stack systems**. I design
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=learnerforge&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" alt="GitHub trophies" />
+  <img src="https://raw.githubusercontent.com/learnerforge/learnerforge/main/assets/trophies.svg" alt="GitHub trophies" />
 </p>
 
 ---
@@ -245,7 +245,7 @@ Software engineer focused on **AI/ML products and full-stack systems**. I design
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/learnerforge/learnerforge/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/learnerforge/learnerforge/main/assets/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </p>
 
 ---
