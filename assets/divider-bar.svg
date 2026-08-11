@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="30" viewBox="0 0 1000 30"><defs><linearGradient id="barGrad" gradientUnits="userSpaceOnUse" x1="430" y1="12" x2="570" y2="12"><stop offset="0" stop-color="#3FA1FF"></stop><stop offset="0.5" stop-color="#6EC1E4"></stop><stop offset="1" stop-color="#3FA1FF"></stop></linearGradient></defs><rect width="140" height="6" x="430" y="12" rx="3" ry="3" fill="url(#barGrad)" class="glow"></rect><circle r="3" cx="427" cy="15" fill="#ffb74d"></circle><circle r="3" cx="573" cy="15" fill="#6ec1e4"></circle><style>@keyframes shimmer{0%{transform:translateX(-240px)}100%{transform:translateX(1160px)}}
-@keyframes pulse{0%,100%{opacity:.2}50%{opacity:1}}
-@keyframes glow{0%,100%{opacity:.35}50%{opacity:.95}}
-.shimmer{animation:shimmer 4.2s ease-in-out infinite}
-.pulse{animation:pulse 2.2s ease-in-out infinite}
-.glow{animation:glow 3s ease-in-out infinite}</style></svg>
