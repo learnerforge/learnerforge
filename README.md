@@ -1,158 +1,298 @@
-<h1 align="center" style="font-family: 'Fira Code', 'Segoe UI', monospace; color: #3FA1FF; letter-spacing: 2px; text-shadow: 0 0 12px rgba(63,161,255,0.35);">Ganesh Bakkera</h1>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,6,12,13&height=220&section=header&text=Ganesh%20Bakkera&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=42" width="100%" alt="header wave" />
+</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3FA1FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+B.Tech+Student+%40+MGIT+Hyderabad;Python+%7C+FastAPI+%7C+Flask+%7C+React+%7C+PostgreSQL;Building+full-stack+AI+systems+%E2%80%94+not+demos;Aspiring+AI+Engineer+%7C+Career-first+builder" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4200&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&lines=AI+%26+ML+Engineer+%7C+Full-Stack+Developer;Python+%7C+FastAPI+%7C+React+%7C+PostgreSQL;Building+production-grade+AI+systems;Aspiring+AI+Engineer+%7C+Career-first+builder" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Education-B.Tech%20AI%20%26%20ML-3FA1FF?style=for-the-badge" alt="Education"/>
-  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-3FA1FF?style=for-the-badge" alt="Location"/>
-  <img src="https://img.shields.io/badge/Open%20To-Internships%20%7C%20Collaborations-3FA1FF?style=for-the-badge" alt="Open to"/>
+  <img src="https://img.shields.io/badge/Education-B.Tech%20CSE%20(AI%20%26%20ML)-8B5CF6?style=for-the-badge&logo=academia&logoColor=white" alt="Education" />
+  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/learnerforge"><img src="https://img.shields.io/badge/GitHub-learnerforge-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/ganesh-bakkera-898a0331b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:bakkeraganesh@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <img src="https://img.shields.io/github/followers/learnerforge?style=for-the-badge&color=3FA1FF&label=Followers" alt="GitHub followers"/>
-  <img src="https://komarev.com/ghpvc/?username=learnerforge&label=Profile%20Views&color=3FA1FF&style=for-the-badge" alt="Profile views"/>
+  <a href="https://github.com/learnerforge"><img src="https://img.shields.io/badge/Portfolio-learnerforge-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ganesh-bakkera-898a0331b"><img src="https://img.shields.io/badge/LinkedIn-Ganesh%20Bakkera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:bakkeraganesh@gmail.com"><img src="https://img.shields.io/badge/Email-bakkeraganesh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/learnerforge"><img src="https://img.shields.io/badge/GitHub-learnerforge-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-```sh
-$ whoami
-Ganesh Bakkera — AI & ML B.Tech @ MGIT Hyderabad
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=learnerforge&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/learnerforge?style=for-the-badge&color=8B5CF6&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/learnerforge?style=for-the-badge&color=8B5CF6&label=Total%20Stars" alt="Total stars" />
+</p>
 
-$ cat mission.txt
-I turn ideas into complete, well-documented systems.
-From pure-CSS art to full-stack AI SaaS — learn by shipping.
+---
+
+## About
+
+Software engineer focused on **AI/ML products and full-stack systems**. I design, build, and ship complete solutions — not demos. From pure-CSS art to production AI SaaS, I take ideas from specification to deployment with clean architecture, documentation, and observability.
+
+- **Software Engineering** — FastAPI · Flask · Django · React · PostgreSQL · Docker · CI/CD
+- **AI / ML Engineering** — LLM integration · NLP · ML models · agentic workflows · evaluation
+- **Product Engineering** — system design, APIs, auth, security, and developer experience
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20To-Internships-8B5CF6?style=for-the-badge" alt="Open to internships" />
+  <img src="https://img.shields.io/badge/Open%20To-Research%20Collaborations-7C3AED?style=for-the-badge" alt="Open to research" />
+  <img src="https://img.shields.io/badge/Open%20To-Hackathon%20Teams-6D28D9?style=for-the-badge" alt="Open to hackathons" />
+  <img src="https://img.shields.io/badge/Open%20To-OSS%20Contributions-A78BFA?style=for-the-badge" alt="Open to OSS" />
+</p>
+
+---
+
+## Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,markdown&perline=10" alt="Languages" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,redux,figma&perline=10" alt="Frontend" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,postgres,sqlite,redis&perline=10" alt="Backend & Databases" />
+
+**Cloud, DevOps & Tooling**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,cloudflare,nginx&perline=10" alt="Cloud, DevOps & Tooling" />
+
+---
+
+## AI / ML Expertise
+
+| Domain | Proficiency | Details |
+| :--- | :---: | :--- |
+| **LLM Integration** | Advanced | Gemini 2.0, GPT-4o-mini fallback, prompt engineering, structured output |
+| **NLP** | Advanced | TextRank, TF-IDF, spaCy, extractive summarization, entity extraction |
+| **Machine Learning** | Intermediate | scikit-learn, Random Forest, Decision Trees, model evaluation |
+| **Reinforcement Learning** | Intermediate | Q-learning tuners applied to real scoring systems |
+| **Agentic Workflows** | Exploring | Agent memory, tool-use, agent-skills ecosystem, CopilotKit |
+
+---
+
+## Featured Projects
+
+<details open>
+  <summary><b>PathForge AI — Roadmaps-generator</b> <i>(flagship)</i></summary>
+
+  Full-stack AI roadmap generator. Imports real roadmaps from roadmap.sh, renders an interactive node graph, and generates AI explanations, quizzes, and weekly study plans.
+
+  | Attribute | Value |
+  | :--- | :--- |
+  | **Stack** | FastAPI · PostgreSQL 16 · SQLAlchemy (async) · React 18 · Zustand · JWT + OAuth · Docker |
+  | **Scale** | 87 roadmaps · 9,444 topics imported |
+  | **Performance** | Async I/O · staged caching · smooth ReactFlow rendering |
+  | **Security** | JWT · OAuth · rate limiting · secure session handling |
+  | **Impact** | Flagship full-stack AI product — production hosting in progress |
+  | **Repository** | [github.com/learnerforge/Roadmaps-generator](https://github.com/learnerforge/Roadmaps-generator) <img src="https://img.shields.io/github/stars/learnerforge/Roadmaps-generator?style=flat-square&color=A78BFA&label=Stars" alt="Stars" /> |
+
+  A flagship demonstration of end-to-end product engineering: data ingestion, async backend architecture, interactive visualization, and AI-assisted pedagogy — all behind authenticated, containerized infrastructure.
+</details>
+
+<details>
+  <summary><b>Remote_Mouse</b> — wireless mouse from your phone</summary>
+
+  Turns a phone into a wireless mouse and media remote. Zero phone-side install — the laptop runs a Python server and the phone simply opens a URL.
+
+  | Attribute | Value |
+  | :--- | :--- |
+  | **Stack** | Flask · Socket.IO · PyAutoGUI · pynput · Cloudflare Tunnel |
+  | **Scale** | 0-install phone client · laptop-only server footprint |
+  | **Performance** | DPI presets 400–3200 · two-finger scroll · low-latency event loop |
+  | **Security** | CI security audits · tunneled access · SMTP URL delivery |
+  | **Impact** | Daily-shipped, real-world device-control tool |
+  | **Repository** | [github.com/learnerforge/Remote_Mouse](https://github.com/learnerforge/Remote_Mouse) <img src="https://img.shields.io/github/stars/learnerforge/Remote_Mouse?style=flat-square&color=A78BFA&label=Stars" alt="Stars" /> |
+
+  A study in systems integration: hardware-level input simulation, real-time web transport, and secure remote access composed into a single reliable tool.
+</details>
+
+<details>
+  <summary><b>AI-GitHub-Repository-Analyzer</b> — 30-second repo quality audits</summary>
+
+  Paste any GitHub URL and receive a 9-dimension quality analysis in under 30 seconds. Deterministic offline NLP with a self-improving tuner.
+
+  | Attribute | Value |
+  | :--- | :--- |
+  | **Stack** | FastAPI · httpx · spaCy · TextRank · Q-learning |
+  | **Scale** | 9-dimension analysis · sub-30s turnaround |
+  | **Performance** | Deterministic offline NLP — no black-box AI |
+  | **Security** | Secret scanning · license & dependency checks |
+  | **Impact** | MIT-licensed; Q-learning tuner improves scoring from user feedback |
+  | **Repository** | [github.com/learnerforge/AI-GitHub-Repository-Analyzer](https://github.com/learnerforge/AI-GitHub-Repository-Analyzer) <img src="https://img.shields.io/github/stars/learnerforge/AI-GitHub-Repository-Analyzer?style=flat-square&color=A78BFA&label=Stars" alt="Stars" /> |
+
+  Combines classic NLP, security tooling, and reinforcement learning into an explainable engineering audit system — a balance of correctness, speed, and transparency.
+</details>
+
+<details>
+  <summary><b>NexaSite</b> — production landing-page template</summary>
+
+  A professional, responsive business landing-page template with a 3-mode theme system and polished scroll interactions.
+
+  | Attribute | Value |
+  | :--- | :--- |
+  | **Stack** | React 19 · Vite · Tailwind CSS v4 · AOS |
+  | **Scale** | 3-mode theming (dark/blue/dust) · fully responsive |
+  | **Performance** | Lightweight build · smooth scroll animations |
+  | **Security** | Accessible, validated contact form |
+  | **Impact** | Production-ready starter for business sites |
+  | **Repository** | [github.com/learnerforge/NexaSite](https://github.com/learnerforge/NexaSite) <img src="https://img.shields.io/github/stars/learnerforge/NexaSite?style=flat-square&color=A78BFA&label=Stars" alt="Stars" /> |
+
+  A frontend engineering showcase: component architecture, design-system theming, and accessibility done right.
+</details>
+
+---
+
+## Experience
+
+**Research Intern — BrightPitch** <img src="https://img.shields.io/badge/2025%20%E2%80%94%20Present-7C3AED?style=flat-square" alt="2025 — Present" />
+
+- Researched AI agent ecosystems, agent memory, and agentic workflows.
+- Built full-stack AI tooling and applied ML/NLP models to real research problems.
+- Practiced production engineering: APIs, testing, and documentation.
+
+**Skills:** Python · LLMs · NLP · FastAPI · Research
+
+---
+
+## Achievements
+
+<p align="center">
+
+| Recognition | Details |
+| :--- | :--- |
+| **Flagship Product** | Built PathForge AI — 87 roadmaps and 9,444 topics shipped end-to-end |
+| **Consistent Shipping** | Remote_Mouse updated daily with CI security audits |
+| **Open Source** | MIT-licensed AI-GitHub-Repository-Analyzer |
+| **Deep Research** | Active exploration of AI agents, agent memory, and CopilotKit |
+
+</p>
+
+---
+
+## Certifications
+
+**AWS**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-232F3E?style=flat-square&logo=amazon&logoColor=white" alt="AWS" />
+</p>
+
+**Oracle**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure-2C4A6E?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+</p>
+
+**NPTEL**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NPTEL-Programming%20%26%20Data%20Science-8B5CF6?style=flat-square&logo=openbadges&logoColor=white" alt="NPTEL" />
+</p>
+
+**Cisco**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
+</p>
+
+---
+
+## Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+  <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=learnerforge&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0B1A&rank_icon=github&include_all_commits=true" width="420" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=learnerforge&theme=dracula&hide_border=true&short_numbers=true" width="400" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=learnerforge&layout=donut-vertical&theme=midnight-purple&hide_border=true&bg_color=0D0B1A" width="70%" alt="Top languages" />
+</p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=learnerforge&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" alt="GitHub trophies" />
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=learnerforge&theme=dracula&hide_border=true&area=true&height=320" alt="Contribution activity graph" />
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/learnerforge/learnerforge/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+</p>
+
+---
+
+## Current Focus
+
+```yaml
+learning:
+  - "AI agents & agent memory"
+  - "System design at scale"
+  - "Production ML inference"
+
+building:
+  - "PathForge AI — hosting + open-source release"
+  - "Remote_Mouse — daily shipping"
+
+exploring:
+  - "RAG pipelines"
+  - "Reinforcement learning"
+  - "Agent-skill ecosystems"
+
+open_to:
+  - "AI / ML internships"
+  - "Research collaborations"
+  - "Hackathon teams"
+  - "Open-source contributions"
 ```
 
 ---
 
-## <img src="https://api.iconify.design/lucide/user.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> About Me
-
-<img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Education** — B.Tech CSE (AI & ML) at MGIT, Hyderabad (2024-2028)<br/>
-<img src="https://api.iconify.design/lucide/briefcase.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Experience** — Research Intern at BrightPitch<br/>
-<img src="https://api.iconify.design/lucide/brain.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Roles** — ML Engineer · Full-Stack Developer · Learning Designer<br/>
-<img src="https://api.iconify.design/lucide/smartphone.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Focus** — Shipping [Remote_Mouse](https://github.com/learnerforge/Remote_Mouse), a wireless mouse from your phone<br/>
-<img src="https://api.iconify.design/lucide/network.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Interests** — AI agents, agent memory, agentic workflows<br/>
-<img src="https://api.iconify.design/lucide/terminal.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Stack** — Python · FastAPI · Flask · React · PostgreSQL<br/>
-<img src="https://api.iconify.design/lucide/lightbulb.svg?color=%23FFB74D&height=18" style="vertical-align: middle; margin-right: 6px"/> **Fun fact** — 87 roadmaps (9,531 topics) in [PathForge AI](https://github.com/learnerforge/Roadmaps-generator)<br/>
-<img src="https://api.iconify.design/lucide/target.svg?color=%23FFB74D&height=18" style="vertical-align: middle; margin-right: 6px"/> **Goal** — Internship-ready by 2027
-
-## <img src="https://api.iconify.design/lucide/terminal.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,postgres,sqlite,react,vite,tailwind,javascript,html,css,docker,git,linux&perline=8" alt="Tech stack"/>
-
-## <img src="https://api.iconify.design/lucide/package.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> Featured Projects
-
-### <img src="https://api.iconify.design/lucide/map.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> [PathForge AI — Roadmaps-generator](https://github.com/learnerforge/Roadmaps-generator) *(flagship)*
-> Full-stack AI roadmap generator. Imports **87 real roadmaps (9,531 topics)** from roadmap.sh, renders an interactive **ReactFlow node graph**, and generates AI explanations, quizzes, and weekly study plans via **Gemini 2.0 (GPT-4o-mini fallback)**.
-> **Stack:** FastAPI · PostgreSQL 16 · SQLAlchemy async · React 18 · Zustand · JWT + OAuth · Docker
->
-> <img src="https://img.shields.io/github/stars/learnerforge/Roadmaps-generator?style=flat-square&logo=github&color=3FA1FF&label=Stars" alt="Stars"/> <img src="https://img.shields.io/github/license/learnerforge/Roadmaps-generator?style=flat-square&color=3FA1FF" alt="License"/>
-
-### <img src="https://api.iconify.design/lucide/smartphone.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> [Remote_Mouse](https://github.com/learnerforge/Remote_Mouse)
-> Turns your phone into a **wireless mouse + media remote**. Zero phone install — the laptop runs a Python server, the phone just opens a URL. DPI presets (400-3200), two-finger scroll, media keys, **Cloudflare tunnel** with SMTP URL delivery.
-> **Stack:** Flask · Socket.IO · PyAutoGUI · pynput · Cloudflare · CI security audit
->
-> <img src="https://img.shields.io/github/stars/learnerforge/Remote_Mouse?style=flat-square&logo=github&color=3FA1FF&label=Stars" alt="Stars"/> <img src="https://img.shields.io/github/languages/top/learnerforge/Remote_Mouse?style=flat-square&color=3FA1FF" alt="Top language"/>
-
-### <img src="https://api.iconify.design/lucide/search.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> [AI-GitHub-Repository-Analyzer](https://github.com/learnerforge/AI-GitHub-Repository-Analyzer)
-> Paste any GitHub URL to get a **9-dimension quality analysis in under 30 seconds**. Deterministic offline NLP (TextRank), secret scanning, architecture detection, and a **Q-learning tuner** that improves scoring from user feedback. No black-box AI.
-> **Stack:** FastAPI · httpx · NLP · Q-learning · MIT licensed
->
-> <img src="https://img.shields.io/github/stars/learnerforge/AI-GitHub-Repository-Analyzer?style=flat-square&logo=github&color=3FA1FF&label=Stars" alt="Stars"/> <img src="https://img.shields.io/github/license/learnerforge/AI-GitHub-Repository-Analyzer?style=flat-square&color=3FA1FF" alt="License"/>
-
-### <img src="https://api.iconify.design/lucide/layout.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> [NexaSite](https://github.com/learnerforge/NexaSite)
-> Professional, responsive **business landing-page template** with a 3-mode theme system (dark/blue/dust), scroll animations, and an accessible contact form.
-> **Stack:** React 19 · Vite · Tailwind v4 · AOS
->
-> <img src="https://img.shields.io/github/stars/learnerforge/NexaSite?style=flat-square&logo=github&color=3FA1FF&label=Stars" alt="Stars"/>
-
-## <img src="https://api.iconify.design/lucide/layers.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> Skills Breakdown
-
-<img src="https://api.iconify.design/lucide/layers.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Backend** — FastAPI · Flask · Django · SQLAlchemy · Alembic · PostgreSQL · SQLite<br/>
-<img src="https://api.iconify.design/lucide/brain.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **AI / ML** — Gemini · OpenAI · scikit-learn · spaCy · TextRank · Q-learning · NLP<br/>
-<img src="https://api.iconify.design/lucide/layout.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Frontend** — React 19 · Vite · Tailwind CSS · Zustand · React Flow · AOS<br/>
-<img src="https://api.iconify.design/lucide/cpu.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Systems** — Socket.IO · PyAutoGUI · pynput · Docker · Cloudflare Tunnels · GitHub Actions<br/>
-<img src="https://api.iconify.design/lucide/shield.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **Security** — JWT · OAuth · bcrypt · rate limiting · CORS · secret scanning
-
-## <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=learnerforge&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A2540&hide_rank=true&rank_icon=github&cache_seconds=1800" width="420" alt="GitHub stats"/>
-  <img src="https://streak-stats.demolab.com/?user=learnerforge&theme=tokyonight&hide_border=true&short_numbers=true" width="380" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=learnerforge&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A2540&cache_seconds=1800" width="70%" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/3FA1FF/learnerforge" width="90%" alt="Contribution heatmap"/>
-</p>
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/learnerforge?template=classic&config.twemoji=false&config.timezone=Asia%2FKolkata" alt="Metrics dashboard"/>
-</p>
-
-## <img src="https://api.iconify.design/lucide/archive.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> More Projects
-
-<details>
-  <summary>Expand — 4 more repos</summary>
-
-  - [**smart-mobility-insights**](https://github.com/learnerforge/smart-mobility-insights) — Django mobility platform wired to **11 government datasets** (~210K records) <img src="https://img.shields.io/github/stars/learnerforge/smart-mobility-insights?style=flat-square&logo=github&color=3FA1FF&label=Stars" alt="Stars"/>
-  - [**SkillGapAI_Project**](https://github.com/learnerforge/SkillGapAI_Project) — employability analyzer with **Random Forest + Decision Tree** models <img src="https://img.shields.io/github/stars/learnerforge/SkillGapAI_Project?style=flat-square&logo=github&color=3FA1FF&label=Stars" alt="Stars"/>
-  - [**resume-screening-ml**](https://github.com/learnerforge/resume-screening-ml) — ATS-style resume matcher using **TF-IDF + spaCy** <img src="https://img.shields.io/github/stars/learnerforge/resume-screening-ml?style=flat-square&logo=github&color=3FA1FF&label=Stars" alt="Stars"/>
-  - [**login-page**](https://github.com/learnerforge/login-page) — "Scholar's Hall" login page, pure-CSS art, no images <img src="https://img.shields.io/github/stars/learnerforge/login-page?style=flat-square&logo=github&color=3FA1FF&label=Stars" alt="Stars"/>
-
-</details>
-
-## <img src="https://api.iconify.design/lucide/quote.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> Quotes I Code By
-
-<p align="center">
-  <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i> — <b>Martin Fowler</b>
-  <br/><br/>
-  <i>"First, solve the problem. Then, write the code."</i> — <b>John Johnson</b>
-  <br/><br/>
-  <i>"Make it work, make it right, make it fast."</i> — <b>Kent Beck</b>
-  <br/><br/>
-  <i>"The best way to predict the future is to invent it."</i> — <b>Alan Kay</b>
-</p>
-
-## <img src="https://api.iconify.design/lucide/activity.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> What I'm Up To
-
-<img src="https://api.iconify.design/lucide/mouse-pointer.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> Pushing **Remote_Mouse** daily — [latest commits](https://github.com/learnerforge/Remote_Mouse)<br/>
-<img src="https://api.iconify.design/lucide/rocket.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> Productionizing **PathForge AI** — hosting + open-source release<br/>
-<img src="https://api.iconify.design/lucide/sparkles.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> Deep-diving the **AI-agent ecosystem** (agent-skills, Agent-Reach, CopilotKit)
-
-## <img src="https://api.iconify.design/lucide/calendar.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> My Learning Journey
-
-<img src="https://api.iconify.design/lucide/calendar.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **2024** — **Frontend foundation** — NexaSite (React 19 / Vite / Tailwind) + pure-CSS design art<br/>
-<img src="https://api.iconify.design/lucide/calendar.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **2025** — **Backend & data** — Django + 11 gov datasets · FastAPI + PostgreSQL<br/>
-<img src="https://api.iconify.design/lucide/calendar.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **2025** — **ML / NLP** — TF-IDF + spaCy · Random Forest · TextRank + Q-learning<br/>
-<img src="https://api.iconify.design/lucide/calendar.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **2026** — **Full-stack AI SaaS** — PathForge AI (Gemini + ReactFlow + JWT)<br/>
-<img src="https://api.iconify.design/lucide/calendar.svg?color=%233FA1FF&height=18" style="vertical-align: middle; margin-right: 6px"/> **2026** — **Systems & DevOps** — Remote_Mouse (Socket.IO + PyAutoGUI + CI audits)
-
-## <img src="https://api.iconify.design/lucide/mail.svg?color=%233FA1FF&height=22" style="vertical-align: middle; margin-right: 6px"/> Let's Connect
+## Let's Connect
 
 I'm always happy to collaborate on **AI/ML and full-stack projects**. Open to internships, research, and hackathon teams.
 
 <p align="center">
-  <a href="https://github.com/learnerforge"><img src="https://img.shields.io/badge/GitHub-learnerforge-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/ganesh-bakkera-898a0331b"><img src="https://img.shields.io/badge/LinkedIn-Ganesh%20Bakkera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:bakkeraganesh@gmail.com"><img src="https://img.shields.io/badge/Email-bakkeraganesh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:bakkeraganesh@gmail.com"><img src="https://img.shields.io/badge/Gmail-bakkeraganesh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/ganesh-bakkera-898a0331b"><img src="https://img.shields.io/badge/LinkedIn-Ganesh%20Bakkera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/learnerforge"><img src="https://img.shields.io/badge/GitHub-learnerforge-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/learnerforge"><img src="https://img.shields.io/badge/Portfolio-learnerforge-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-If you found any of my projects useful, a star would make my day!
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=learnerforge&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph"/>
-</p>
+---
 
 <p align="center">
   <code>Build, learn, grow — the Forge way.</code>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,6,12,13&height=140&section=footer&text=learnerforge&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" alt="footer wave" />
 </p>
