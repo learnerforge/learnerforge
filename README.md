@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4200&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&lines=AI+%26+ML+Engineer+%7C+Full-Stack+Developer;Python+%7C+FastAPI+%7C+React+%7C+PostgreSQL;Building+production-grade+AI+systems;Aspiring+AI+Engineer+%7C+Career-first+builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4200&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&lines=ML+Engineer+%7C+Data+Scientist+%7C+Data+Analyst;Python+%7C+SQL+%7C+FastAPI+%7C+scikit-learn;Building+production-grade+AI+systems;Aspiring+AI+Engineer+%7C+Career-first+builder" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -47,19 +47,46 @@ Software engineer focused on **AI/ML products and full-stack systems**. I design
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,markdown&perline=10" alt="Languages" />
+<p align="center">
+  <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+  <a href="https://daringfireball.net/projects/markdown/" title="Markdown"><img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" /></a>
+</p>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,redux,figma&perline=10" alt="Frontend" />
+<p align="center">
+  <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://vite.dev/" title="Vite"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>
+  <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
+  <a href="https://redux.js.org/" title="Redux"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></a>
+  <a href="https://www.figma.com/" title="Figma"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
+</p>
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,postgres,sqlite,redis&perline=10" alt="Backend & Databases" />
+<p align="center">
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" /></a>
+  <a href="https://flask.palletsprojects.com/" title="Flask"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" /></a>
+  <a href="https://www.djangoproject.com/" title="Django"><img src="https://skillicons.dev/icons?i=django" alt="Django" /></a>
+  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+  <a href="https://www.sqlite.org/" title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /></a>
+  <a href="https://redis.io/" title="Redis"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" /></a>
+</p>
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,cloudflare,nginx&perline=10" alt="Cloud, DevOps & Tooling" />
+<p align="center">
+  <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></a>
+  <a href="https://www.linux.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+  <a href="https://www.cloudflare.com/" title="Cloudflare"><img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" /></a>
+  <a href="https://nginx.org/" title="Nginx"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /></a>
+</p>
 
 ---
 
@@ -176,27 +203,10 @@ Software engineer focused on **AI/ML products and full-stack systems**. I design
 
 ## Certifications
 
-**AWS**
-
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-232F3E?style=flat-square&logo=amazon&logoColor=white" alt="AWS" />
-</p>
-
-**Oracle**
-
-<p align="center">
   <img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure-2C4A6E?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
-</p>
-
-**NPTEL**
-
-<p align="center">
   <img src="https://img.shields.io/badge/NPTEL-Programming%20%26%20Data%20Science-8B5CF6?style=flat-square&logo=openbadges&logoColor=white" alt="NPTEL" />
-</p>
-
-**Cisco**
-
-<p align="center">
   <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
 </p>
 
