@@ -1,0 +1,27 @@
+{
+  "learning": [
+    "AI agents & agent memory",
+    "System design at scale",
+    "Production ML inference"
+  ],
+  "building": [
+    "PathForge AI — hosting + open-source release",
+    "Remote_Mouse — daily shipping"
+  ],
+  "exploring": [
+    "RAG pipelines",
+    "Reinforcement learning",
+    "Agent-skill ecosystems"
+  ],
+  "open_to": [
+    "AI / ML internships",
+    "Research collaborations",
+    "Hackathon teams",
+    "Open-source contributions"
+  ],
+  "focus_roles": [
+    "ML Engineer",
+    "Data Scientist",
+    "Data Analyst"
+  ]
+}

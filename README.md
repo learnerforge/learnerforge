@@ -262,27 +262,55 @@ Software engineer focused on **AI/ML products and full-stack systems**. I design
 
 ## Current Focus
 
-```yaml
-learning:
-  - "AI agents & agent memory"
-  - "System design at scale"
-  - "Production ML inference"
+<!-- LIVE_ACTIVITY_START -->
+## Live Activity
 
-building:
-  - "PathForge AI — hosting + open-source release"
-  - "Remote_Mouse — daily shipping"
+**Target Roles**
 
-exploring:
-  - "RAG pipelines"
-  - "Reinforcement learning"
-  - "Agent-skill ecosystems"
+<p align="center">
+  <img src="https://img.shields.io/badge/ML%20Engineer-7C3AED?style=for-the-badge&logo=target&logoColor=white" alt="ML Engineer" />
+  <img src="https://img.shields.io/badge/Data%20Scientist-7C3AED?style=for-the-badge&logo=target&logoColor=white" alt="Data Scientist" />
+  <img src="https://img.shields.io/badge/Data%20Analyst-7C3AED?style=for-the-badge&logo=target&logoColor=white" alt="Data Analyst" />
+</p>
 
-open_to:
-  - "AI / ML internships"
-  - "Research collaborations"
-  - "Hackathon teams"
-  - "Open-source contributions"
-```
+**Currently Learning**
+
+- AI agents & agent memory
+- System design at scale
+- Production ML inference
+
+**Building**
+
+- PathForge AI — hosting + open-source release
+- Remote_Mouse — daily shipping
+
+**Exploring**
+
+- RAG pipelines
+- Reinforcement learning
+- Agent-skill ecosystems
+
+**Recent GitHub Activity** *(last 7 days)*
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Issues-2-6D28D9?style=flat-square&logo=github&logoColor=white" alt="2 issues" />
+  <a href="https://github.com/learnerforge/learnerforge"><img src="https://img.shields.io/badge/learnerforge-0%20stars-A78BFA?style=flat-square&logo=github&logoColor=white" alt="learnerforge" /></a>
+  <a href="https://github.com/learnerforge/portfolio-6606"><img src="https://img.shields.io/badge/portfolio-6606-0%20stars-A78BFA?style=flat-square&logo=github&logoColor=white" alt="portfolio-6606" /></a>
+  <a href="https://github.com/learnerforge/AI-GitHub-Repository-Analyzer"><img src="https://img.shields.io/badge/AI-GitHub-Repository-Analyzer-0%20stars-A78BFA?style=flat-square&logo=github&logoColor=white" alt="AI-GitHub-Repository-Analyzer" /></a>
+</p>
+
+**Open To**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML%20internships-8B5CF6?style=flat-square" alt="AI / ML internships" />
+  <img src="https://img.shields.io/badge/Research%20collaborations-7C3AED?style=flat-square" alt="Research collaborations" />
+  <img src="https://img.shields.io/badge/Hackathon%20teams-6D28D9?style=flat-square" alt="Hackathon teams" />
+  <img src="https://img.shields.io/badge/Open-source%20contributions-A78BFA?style=flat-square" alt="Open-source contributions" />
+</p>
+
+<p align="center"><i>Last updated: 2026-08-18</i></p>
+
+<!-- LIVE_ACTIVITY_END -->
 
 ---
 
