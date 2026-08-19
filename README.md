@@ -26,7 +26,9 @@
 
 ---
 
-## About
+<p align="center">
+  <img src="https://raw.githubusercontent.com/learnerforge/learnerforge/main/assets/header-about.svg" width="100%" alt="About" />
+</p>
 
 Software engineer focused on **AI/ML products and full-stack systems**. I design, build, and ship complete solutions — not demos. From pure-CSS art to production AI SaaS, I take ideas from specification to deployment with clean architecture, documentation, and observability.
 
@@ -43,7 +45,9 @@ Software engineer focused on **AI/ML products and full-stack systems**. I design
 
 ---
 
-## Tech Stack
+<p align="center">
+  <img src="https://raw.githubusercontent.com/learnerforge/learnerforge/main/assets/header-techstack.svg" width="100%" alt="Tech Stack" />
+</p>
 
 **Languages**
 
@@ -90,7 +94,9 @@ Software engineer focused on **AI/ML products and full-stack systems**. I design
 
 ---
 
-## AI / ML Expertise
+<p align="center">
+  <img src="https://raw.githubusercontent.com/learnerforge/learnerforge/main/assets/header-ai-ml.svg" width="100%" alt="AI / ML Expertise" />
+</p>
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
@@ -102,7 +108,13 @@ Software engineer focused on **AI/ML products and full-stack systems**. I design
 
 ---
 
-## Featured Projects
+<p align="center">
+  <img src="https://raw.githubusercontent.com/learnerforge/learnerforge/main/assets/animated-divider.svg" width="100%" alt="divider" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/learnerforge/learnerforge/main/assets/header-projects.svg" width="100%" alt="Featured Projects" />
+</p>
 
 <details open>
   <summary><b>PathForge AI — Roadmaps-generator</b> <i>(flagship)</i></summary>
@@ -223,7 +235,9 @@ Software engineer focused on **AI/ML products and full-stack systems**. I design
 
 ---
 
-## GitHub Analytics
+<p align="center">
+  <img src="https://raw.githubusercontent.com/learnerforge/learnerforge/main/assets/header-analytics.svg" width="100%" alt="GitHub Analytics" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=learnerforge&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0B1A&rank_icon=github&include_all_commits=true" width="420" alt="GitHub stats" />
