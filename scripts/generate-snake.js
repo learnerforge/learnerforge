@@ -23,6 +23,7 @@
  */
 
 const fs = require("fs")
+const cheerio = require("cheerio")
 const path = require("path")
 
 const USER = process.argv[2] || "learnerforge"
