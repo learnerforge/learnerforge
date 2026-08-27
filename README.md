@@ -26,9 +26,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/learnerforge/learnerforge/main/assets/header-about.svg" width="100%" alt="About" />
-</p>
+## About
 
 Software engineer focused on **AI/ML products and full-stack systems**. I design, build, and ship complete solutions — not demos. From pure-CSS art to production AI SaaS, I take ideas from specification to deployment with clean architecture, documentation, and observability.
 
@@ -45,9 +43,7 @@ Software engineer focused on **AI/ML products and full-stack systems**. I design
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/learnerforge/learnerforge/main/assets/header-techstack.svg" width="100%" alt="Tech Stack" />
-</p>
+## Tech Stack
 
 **Languages**
 
@@ -94,9 +90,7 @@ Software engineer focused on **AI/ML products and full-stack systems**. I design
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/learnerforge/learnerforge/main/assets/header-ai-ml.svg" width="100%" alt="AI / ML Expertise" />
-</p>
+## AI / ML Expertise
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
@@ -108,13 +102,7 @@ Software engineer focused on **AI/ML products and full-stack systems**. I design
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/learnerforge/learnerforge/main/assets/animated-divider.svg" width="100%" alt="divider" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/learnerforge/learnerforge/main/assets/header-projects.svg" width="100%" alt="Featured Projects" />
-</p>
+## Featured Projects
 
 <details open>
   <summary><b>PathForge AI — Roadmaps-generator</b> <i>(flagship)</i></summary>
@@ -235,9 +223,7 @@ Software engineer focused on **AI/ML products and full-stack systems**. I design
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/learnerforge/learnerforge/main/assets/header-analytics.svg" width="100%" alt="GitHub Analytics" />
-</p>
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=learnerforge&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0B1A&rank_icon=github&include_all_commits=true" width="420" alt="GitHub stats" />
@@ -274,8 +260,6 @@ Software engineer focused on **AI/ML products and full-stack systems**. I design
 
 ---
 
-## Current Focus
-
 <!-- LIVE_ACTIVITY_START -->
 ## Live Activity
 
@@ -308,9 +292,9 @@ Software engineer focused on **AI/ML products and full-stack systems**. I design
 
 <p align="center">
   <img src="https://img.shields.io/badge/Issues-2-6D28D9?style=flat-square&logo=github&logoColor=white" alt="2 issues" />
-  <a href="https://github.com/learnerforge/portfolio-6606"><img src="https://img.shields.io/badge/portfolio-6606-0%20stars-A78BFA?style=flat-square&logo=github&logoColor=white" alt="portfolio-6606" /></a>
-  <a href="https://github.com/learnerforge/Remote_Mouse"><img src="https://img.shields.io/badge/Remote_Mouse-0%20stars-A78BFA?style=flat-square&logo=github&logoColor=white" alt="Remote_Mouse" /></a>
   <a href="https://github.com/learnerforge/learnerforge"><img src="https://img.shields.io/badge/learnerforge-0%20stars-A78BFA?style=flat-square&logo=github&logoColor=white" alt="learnerforge" /></a>
+  <a href="https://github.com/learnerforge/MS-office"><img src="https://img.shields.io/badge/MS-office-0%20stars-A78BFA?style=flat-square&logo=github&logoColor=white" alt="MS-office" /></a>
+  <a href="https://github.com/learnerforge/AI-GitHub-Repository-Analyzer"><img src="https://img.shields.io/badge/AI-GitHub-Repository-Analyzer-0%20stars-A78BFA?style=flat-square&logo=github&logoColor=white" alt="AI-GitHub-Repository-Analyzer" /></a>
 </p>
 
 **Open To**
@@ -322,7 +306,7 @@ Software engineer focused on **AI/ML products and full-stack systems**. I design
   <img src="https://img.shields.io/badge/Open-source%20contributions-A78BFA?style=flat-square" alt="Open-source contributions" />
 </p>
 
-<p align="center"><i>Last updated: 2026-08-23</i></p>
+<p align="center"><i>Last updated: 2026-08-27</i></p>
 
 <!-- LIVE_ACTIVITY_END -->
 
