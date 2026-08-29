@@ -18,7 +18,20 @@ function fetch(url) {
       .get(url, options, (res) => {
         let data = "";
         res.on("data", (chunk) => (data += chunk));
-        res.on("end", () => resolve({ status: res.statusCode, data: JSON.parse(data) }));
+        res.on("end", () => {
+          let parsed;
+          try {
+            parsed = JSON.parse(data);
+          } catch {
+            reject(new Error(`GitHub returned invalid JSON (HTTP ${res.statusCode})`));
+            return;
+          }
+          if (res.statusCode < 200 || res.statusCode >= 300) {
+            reject(new Error(`GitHub request failed (HTTP ${res.statusCode}): ${parsed.message || "unknown error"}`));
+            return;
+          }
+          resolve({ status: res.statusCode, data: parsed });
+        });
       })
       .on("error", reject);
   });
@@ -31,7 +44,7 @@ async function getRecentActivity() {
     fetch(`https://api.github.com/users/${USERNAME}/repos?sort=updated&per_page=5`),
   ]);
 
-  const events = eventsRes.data || [];
+  const events = (eventsRes.data || []).filter((event) => new Date(event.created_at) > new Date(since));
   const repos = reposRes.data || [];
 
   const commits = events
@@ -131,6 +144,10 @@ function updateReadme(newSection) {
 
   const startIdx = readme.indexOf(marker);
   const endIdx = readme.indexOf(endMarker);
+
+  if ((startIdx === -1) !== (endIdx === -1) || (startIdx !== -1 && endIdx < startIdx)) {
+    throw new Error("README live activity markers are missing or out of order");
+  }
 
   const wrapped = `${marker}\n${newSection}\n${endMarker}`;
 

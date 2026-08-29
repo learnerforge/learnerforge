@@ -291,10 +291,9 @@ Software engineer focused on **AI/ML products and full-stack systems**. I design
 **Recent GitHub Activity** *(last 7 days)*
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Issues-2-6D28D9?style=flat-square&logo=github&logoColor=white" alt="2 issues" />
   <a href="https://github.com/learnerforge/learnerforge"><img src="https://img.shields.io/badge/learnerforge-0%20stars-A78BFA?style=flat-square&logo=github&logoColor=white" alt="learnerforge" /></a>
+  <a href="https://github.com/learnerforge/SkillGapAI_Project"><img src="https://img.shields.io/badge/SkillGapAI_Project-1%20stars-A78BFA?style=flat-square&logo=github&logoColor=white" alt="SkillGapAI_Project" /></a>
   <a href="https://github.com/learnerforge/MS-office"><img src="https://img.shields.io/badge/MS-office-0%20stars-A78BFA?style=flat-square&logo=github&logoColor=white" alt="MS-office" /></a>
-  <a href="https://github.com/learnerforge/AI-GitHub-Repository-Analyzer"><img src="https://img.shields.io/badge/AI-GitHub-Repository-Analyzer-0%20stars-A78BFA?style=flat-square&logo=github&logoColor=white" alt="AI-GitHub-Repository-Analyzer" /></a>
 </p>
 
 **Open To**
@@ -306,7 +305,7 @@ Software engineer focused on **AI/ML products and full-stack systems**. I design
   <img src="https://img.shields.io/badge/Open-source%20contributions-A78BFA?style=flat-square" alt="Open-source contributions" />
 </p>
 
-<p align="center"><i>Last updated: 2026-08-27</i></p>
+<p align="center"><i>Last updated: 2026-08-29</i></p>
 
 <!-- LIVE_ACTIVITY_END -->
 

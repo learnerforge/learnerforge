@@ -11,6 +11,9 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    concurrency:
+      group: profile-content
+      cancel-in-progress: false
     permissions:
       contents: write
     steps:
