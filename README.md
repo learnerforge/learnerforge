@@ -292,8 +292,8 @@ Software engineer focused on **AI/ML products and full-stack systems**. I design
 
 <p align="center">
   <a href="https://github.com/learnerforge/learnerforge"><img src="https://img.shields.io/badge/learnerforge-0%20stars-A78BFA?style=flat-square&logo=github&logoColor=white" alt="learnerforge" /></a>
-  <a href="https://github.com/learnerforge/push-to-github"><img src="https://img.shields.io/badge/push-to-github-7%20stars-A78BFA?style=flat-square&logo=github&logoColor=white" alt="push-to-github" /></a>
   <a href="https://github.com/learnerforge/portfolio-6606"><img src="https://img.shields.io/badge/portfolio-6606-0%20stars-A78BFA?style=flat-square&logo=github&logoColor=white" alt="portfolio-6606" /></a>
+  <a href="https://github.com/learnerforge/push-to-github"><img src="https://img.shields.io/badge/push-to-github-7%20stars-A78BFA?style=flat-square&logo=github&logoColor=white" alt="push-to-github" /></a>
 </p>
 
 **Open To**
@@ -305,7 +305,7 @@ Software engineer focused on **AI/ML products and full-stack systems**. I design
   <img src="https://img.shields.io/badge/Open-source%20contributions-A78BFA?style=flat-square" alt="Open-source contributions" />
 </p>
 
-<p align="center"><i>Last updated: 2026-09-01</i></p>
+<p align="center"><i>Last updated: 2026-09-02</i></p>
 
 <!-- LIVE_ACTIVITY_END -->
 
