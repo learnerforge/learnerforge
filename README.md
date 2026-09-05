@@ -319,7 +319,7 @@ I'm always happy to collaborate on **AI/ML and full-stack projects**. Open to in
   <a href="mailto:bakkeraganesh@gmail.com"><img src="https://img.shields.io/badge/Gmail-bakkeraganesh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/ganesh-bakkera-898a0331b"><img src="https://img.shields.io/badge/LinkedIn-Ganesh%20Bakkera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/learnerforge"><img src="https://img.shields.io/badge/GitHub-learnerforge-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/learnerforge"><img src="https://img.shields.io/badge/Portfolio-learnerforge-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://portfolio-6606.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Ganesh%20Bakkera-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
