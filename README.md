@@ -176,13 +176,9 @@ Software engineer focused on **AI/ML products and full-stack systems**. I design
 
 ## Experience
 
-**Research Intern — BrightPitch** <img src="https://img.shields.io/badge/2025%20%E2%80%94%20Present-7C3AED?style=flat-square" alt="2025 — Present" />
+I design, build, and ship AI/ML products and full-stack systems end-to-end — from idea to production.
 
-- Researched AI agent ecosystems, agent memory, and agentic workflows.
-- Built full-stack AI tooling and applied ML/NLP models to real research problems.
-- Practiced production engineering: APIs, testing, and documentation.
-
-**Skills:** Python · LLMs · NLP · FastAPI · Research
+Focus areas: **AI agents · LLM applications · full-stack web · production ML**
 
 ---
 
