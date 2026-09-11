@@ -287,8 +287,8 @@ Focus areas: **AI agents · LLM applications · full-stack web · production ML*
 **Recent GitHub Activity** *(last 7 days)*
 
 <p align="center">
-  <a href="https://github.com/learnerforge/CAMPUS_WEBSITE"><img src="https://img.shields.io/badge/CAMPUS_WEBSITE-0%20stars-A78BFA?style=flat-square&logo=github&logoColor=white" alt="CAMPUS_WEBSITE" /></a>
   <a href="https://github.com/learnerforge/learnerforge"><img src="https://img.shields.io/badge/learnerforge-0%20stars-A78BFA?style=flat-square&logo=github&logoColor=white" alt="learnerforge" /></a>
+  <a href="https://github.com/learnerforge/CAMPUS_WEBSITE"><img src="https://img.shields.io/badge/CAMPUS_WEBSITE-0%20stars-A78BFA?style=flat-square&logo=github&logoColor=white" alt="CAMPUS_WEBSITE" /></a>
   <a href="https://github.com/learnerforge/portfolio-6606"><img src="https://img.shields.io/badge/portfolio-6606-0%20stars-A78BFA?style=flat-square&logo=github&logoColor=white" alt="portfolio-6606" /></a>
 </p>
 
@@ -301,7 +301,7 @@ Focus areas: **AI agents · LLM applications · full-stack web · production ML*
   <img src="https://img.shields.io/badge/Open-source%20contributions-A78BFA?style=flat-square" alt="Open-source contributions" />
 </p>
 
-<p align="center"><i>Last updated: 2026-09-10</i></p>
+<p align="center"><i>Last updated: 2026-09-11</i></p>
 
 <!-- LIVE_ACTIVITY_END -->
 
