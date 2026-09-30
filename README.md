@@ -288,8 +288,6 @@ Focus areas: **AI agents · LLM applications · full-stack web · production ML*
 
 <p align="center">
   <a href="https://github.com/learnerforge/learnerforge"><img src="https://img.shields.io/badge/learnerforge-0%20stars-A78BFA?style=flat-square&logo=github&logoColor=white" alt="learnerforge" /></a>
-  <a href="https://github.com/learnerforge/ML-Challenge"><img src="https://img.shields.io/badge/ML-Challenge-0%20stars-A78BFA?style=flat-square&logo=github&logoColor=white" alt="ML-Challenge" /></a>
-  <a href="https://github.com/learnerforge/portfolio-6606"><img src="https://img.shields.io/badge/portfolio-6606-0%20stars-A78BFA?style=flat-square&logo=github&logoColor=white" alt="portfolio-6606" /></a>
 </p>
 
 **Open To**
@@ -301,7 +299,7 @@ Focus areas: **AI agents · LLM applications · full-stack web · production ML*
   <img src="https://img.shields.io/badge/Open-source%20contributions-A78BFA?style=flat-square" alt="Open-source contributions" />
 </p>
 
-<p align="center"><i>Last updated: 2026-09-29</i></p>
+<p align="center"><i>Last updated: 2026-09-30</i></p>
 
 <!-- LIVE_ACTIVITY_END -->
 
