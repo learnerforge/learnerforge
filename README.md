@@ -284,6 +284,12 @@ Focus areas: **AI agents · LLM applications · full-stack web · production ML*
 - Reinforcement learning
 - Agent-skill ecosystems
 
+**Recent GitHub Activity** *(last 7 days)*
+
+<p align="center">
+  <a href="https://github.com/learnerforge/learnerforge"><img src="https://img.shields.io/badge/learnerforge-0%20stars-A78BFA?style=flat-square&logo=github&logoColor=white" alt="learnerforge" /></a>
+</p>
+
 **Open To**
 
 <p align="center">
@@ -293,7 +299,7 @@ Focus areas: **AI agents · LLM applications · full-stack web · production ML*
   <img src="https://img.shields.io/badge/Open-source%20contributions-A78BFA?style=flat-square" alt="Open-source contributions" />
 </p>
 
-<p align="center"><i>Last updated: 2026-11-09</i></p>
+<p align="center"><i>Last updated: 2026-11-10</i></p>
 
 <!-- LIVE_ACTIVITY_END -->
 
